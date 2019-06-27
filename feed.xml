@@ -5,9 +5,183 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 16 Apr 2019 12:24:05 +0000</pubDate>
-    <lastBuildDate>Tue, 16 Apr 2019 12:24:05 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Jun 2019 03:15:14 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jun 2019 03:15:14 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>제29차 고군분투기</title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제29차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2019년02월15일 20시00분 ~ 22시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;@ahn-soohan : Failing the coding interview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/51786631_1968268100136584_8047393829248040960_n.jpg?_nc_cat=109&amp;amp;_nc_ht=scontent-nrt1-1.xx&amp;amp;oh=23fd59abe744adc3549782d053789464&amp;amp;oe=5CEE7AA9&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Freakout Inc 에서 소프트웨어 엔지니어로 일하고 있습니다. 실시간 광고 경매(Real Time Bidding) 관련 개발을 하고 있고, 주로 광고주쪽 플랫폼 개발을 담당하고 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/51933270_1968274326802628_7350312768727154688_n.jpg?_nc_cat=101&amp;amp;_nc_ht=scontent-nrt1-1.xx&amp;amp;oh=7b3e40c3fc675fc4c6002043ecf561d2&amp;amp;oe=5CE3AD7D&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sr. SW Engineer @ IBM iX&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;@ahn-soohan : Failing the coding intervie&lt;/strong&gt;(&lt;a href=&quot;https://www.slideshare.net/SoohanAhn/failing-the-coding-interview&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/A6zDl96eMmUHsI&quot; width=&quot;700&quot; height=&quot;600&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brunch.co.kr/@soohanahn/4&quot;&gt;코딩인터뷰 Q&amp;amp;A&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)&lt;/strong&gt;(&lt;a href=&quot;&quot;&gt;TODO&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt; &lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2280563632188369&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/52469149_2445032445571387_2429175808321912832_n.jpg?_nc_cat=103&amp;amp;_nc_ht=scontent-nrt1-1.xx&amp;amp;oh=8c338286b55ba21239e40a8d6f81201d&amp;amp;oe=5CE652CE&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAABOCAMAAAAacHSsAAAAllBMVEX///8AAACpAACmAACjAACioqJra2ugAADqz8+qqqrU1NT39/f89/f78/Px2tpcXFzNgICOjo6vExO7UlE2NjbFbm4mJib47e3cra2/v7/ZpqaxsbHe3t58fHywMzJkZGRMTEy+XV22SUnivb3OjIzKysrgtbUtLS0eHh7q6uq0PT2sGxuyKirIeHkSEhKZmZlCQkLSmZnhcRC8AAADsklEQVRoge2W65aiOhBGi0rG4HBpL60oispFWxG8vP/LnS8gjqfH7hlm9Sw9Z2X/gIgSN5WqCkQGg8FgMBgMBoPBYPjPkm78Ryvco5RCPJFYTxYunTObEmaZPdrmSiBZ+QiVslMpRfBonQueS5N8Qz3BckLuc6yin+VCqcTDMBaDM/lPESw/Rpozsyi9GHnlUqCeYRU9FmKR5AJeG8msL5Wx92grct0kT3HeLIaBV6iYHq+kSfcjfRyWMJzYru+O9pt2Mzi7nfPlWh5zQf4IRRjSUMqUfMXcJNfu+4XdZ1NE40P3y70yIXoBsl6oM+1ZnMmVWrHmm3Wh/9kUHcu68Qr8e8Xstq0jGNmh5P05JRslOXRpI7hpXu29wsWeeZ+8ywQvKVoWeCpZ+BsFkzTc61YxwP1BMwe8Xvua6W96xQg2tor3m5i7YNmums6Il0+hjdxCB0OX0Nmm06zxWtajebc7X/cj5Pc06kQzfWXW73SO86tXF7/AUw42rodJpU+TSYjn2+AYhAWLcNJmCwmVKPTZKxCrJNX7dRBKMXrvNbWsN8s67JxTta6vRNvrCldea4yxh9V3JnorQ8rCJJHSTpVeCRXeV/hA7OxSqoaUKZkT2VgHxFDEV68T4tD95kwriYPTx2G51Toda3wa49r32gvWsxsvMaGBDhoNkb+pXgeW7dqP7+nHO5OdUljSCKOYb+JVs9Neb905IVxzmuuAVa0jqg2tmY4nfeT1B/lFsdq7cT2dLWWPqrcdkd3xwv+S84qxo8NIdNRhs6yo8sL19cdeHrza1aOnWAQ2D3wKyGfWs8asp2q8Vmsw1fn1cvE6atGZtrEO0cXrxbLG9JVeVOj7As9LkKmFrk20fsZba+P1I+8br+749WVKjmVtZ/Pjxas71uv7lV6TuvhKIUpaCDUh5Ohtv/+3V51fGnitsJbNOs6qj5ngqmIWOslrr6Txavs2kCObAnvAokd2HOrWKOPmu5+94HDq96PVmg5Y0S6qcFrX41aPUM6c2fYImRAgUpyHJes1gJfole3MkFVCd3pmNFO7RFX+qOefveaHpm3N6gGitNRe+MEWAcMLJvq9EJjDR6fGxlvVUqw3YLtdwGy+IPJcCHWbB9OX5WVnXDejXXQav60iFN90+TZeHbED9JfIN+pUR7tMiiLpVa3dL/NiEVdPGYwWRdLSi/yF5Cvq1/npOO8Ht7iue298c/W3cUMBM9QhTmn72/8maRaD7MmsDAaDwWAwGAwGg8FgMPzP+AcgvESDJV8VxAAAAABJRU5ErkJggg==&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/02/15/struggle-29/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/02/15/struggle-29/</guid>
+        
+        <category>coding interview</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
+    
+      <item>
+        <title>제28차 고군분투기</title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제28차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2019년01월17일 20시00분 ~ 22시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;@jonggu : Mysql innodb architecture&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/50054533_2385773244830641_980102143853723648_n.jpg?_nc_cat=100&amp;amp;_nc_ht=scontent-nrt1-1.xx&amp;amp;oh=017819d657a28ba23f30fb587800a727&amp;amp;oe=5CF7ECD4&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;DB 병아리&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@juinho : Mysql 가용성&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/51982127_1968266416803419_1907626633804644352_n.jpg?_nc_cat=109&amp;amp;_nc_ht=scontent-nrt1-1.xx&amp;amp;oh=7f2a6ad5974e6bb839c2162e682cded7&amp;amp;oe=5CE76BE6&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;인프라 엔지니어 초보dba로 일하고 있습니다 주로 하는 일은 논리설계 디비설계 성능튜닝 및 인시던트 대응입니다 (신용카드,qr,프리페이드,전자머니) Fintech업계에서 일하고 있으며 결재 프로젝트 에서 da 및 dba를 담당하고있습니다&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;@jonggu : Mysql innodb architecture&lt;/strong&gt;(&lt;a href=&quot;https://docs.google.com/presentation/d/1EErikAbk8IhU7qhR3wwyGVDW2qlkZUqEXVilEebIOxY/edit?usp=sharing&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
+
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vSSghM7r7whRM_tX9BaFtZS1UJF38EMQmgP8pabz4BefWIlbN9AnXrrrpDhqwTvug4Bv0SteF5uiYkP/embed?start=false&amp;amp;loop=false&quot; width=&quot;700&quot; height=&quot;600&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@juinho : Mysql 가용성&lt;/strong&gt;(&lt;a href=&quot;https://drive.google.com/open?id=1NRSIuCg7wBW4LMDDa86ClysC8cZCudt7&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
+
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQFMf7s-GS2J3lC7DN1EBQWU8ZO_EOf0_P9SSBlLQvidtc1_Oz020-c8eT14MwdcTGJZiog79f5KsKk/embed?start=false&amp;amp;loop=false&quot; width=&quot;700&quot; height=&quot;600&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt; &lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2280564735521592&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/52020566_1968266516803409_3275301433833947136_n.jpg?_nc_cat=101&amp;amp;_nc_ht=scontent-nrt1-1.xx&amp;amp;oh=e167395543afd60e0912850f2f6129f6&amp;amp;oe=5CDB2844&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAABMCAMAAABXuNWnAAAAllBMVEX////+AAD+ADT+ACn+ADL/9/n+ACH+ACX+ACz+ABn/+fr/tL3+AC7+ADD+ABz+fIb/2Nr+ABP+N0v/wcn/8fP/6u3/y9H/4uX+fYv/3eH+fIH/vMP+cYH/r7T+pq7/1Nn+MEX/mKP+VWn+iZT+bHn+P1b+TmH+Hzv+Xm3/ZHX/nqn+K0r/kJn/hIz+RVz+Xmf+T1r+R1JjbnwGAAAE7UlEQVRoge2WiZKbOBiE0YGEuGxxmnAbsIwHO8n7v9xKYHxsxhk72cxubfFN1SRohNT8arWkaQsLCwsLCwsLCwsLCwv/bfR7zD88XRgonpD1raq8M1VVieMf1gWFEKj4uJ/Z9J3DkW3bhmizpo6enUCW1tRM09T1nwxe5kPW96s6TeYm6mDM1s9NYcZvBoYOjOdn64Y8fP+lFaBYCEzAwwonK0E4GOH0rZ4WD8mJqifWcUJ3HIiN0/zI5FAuIcSVw3rXXpHvRyN+ampBlHeG0eXRNEkQWfVQF/71KxpGEdgVZRhGhw4ggqyzLtQ/K0vakTsQuvOn64mfdzYmYpUnN52E+nKmRNvj9sgQWk1/ybtzYQAXwyS0Z5B0l7ejCmFwmHS5T9jrQsIxxjy9PmODDz/00n0KWTovw6yrhIy6u7xM1umKEsLVvBaAaHvzptkZGJRKFyZP2msi5RhiNFusdIiQo2hDM9QjzbRAMYH8UoSzrjW3aTfPpR/JWBhhO/adM9cUG73S5Yin7TVSMwgNb8qvlLD9+HYmKGGE0G4/dYop/kGXJ212E3u1FJaEslz7+/F3NuZKl7HVXqMlEJJM/e/AWTO3Nu4eQTSHQYywa60nkt5QumIAiX8zjF7Z9FgySP+2UXsDAqWL1C/q0jsDQmkOs+UknxtN6IXCuYwldcHZ4oBApSt3sbhbsR7Zu5C/Vy931PV0RM4ktvQ+i04MXb+/BoW2oba46jL20nNFbln+dqxX4eL7QOqR02mV8zd/ldJfUilynNfspbBc5X2EykuLToSpldLsZ6Xv+KuUVrpNE+1koPaH/Rio/SgrRUj3sixpMQThnVsGPphBcLKNi+8hv2zzs++FQ1c3Y0TS93KElkN6uuaXJ/NL5c726yvpNZO7Stf1xNO5odwkIwRMi5K8kxMRwO7Vy6XjkPEjBoAQk3kfx+WhYzYFvyLoRhcmVwOsyMlK/ciHmG7Uc2ARyKyzbrNXCybxGWXV1Bq1wODn2oYZcdm4SThzjePrtrrRRe50xcCdrNbLVZA7Sh2bLpG/T6ocgBN1LrdKgSFPJ+xVqs2zruNFRdNut9mQz47dViLXXudOlxls6dmkPsGk0FJZO0Way/PKL6xUkY9uDNJm11Vvp74oH409IujNWfeCLuUvd1qnLwLIG4E3WbpyMPzw7Sfuut6u+7nwdwn2hvJ9Ekhl5nGjyGRq6+nhzXZof4ge3AGTftU0q+z1CZ8h63eOiwz1Aytvc/OXCBAs778OBQ+i2lwfKKjj8YZmqXoURV4UY2fZom6WoeWX6gMj68E18yHmabdv2y9n2ttNbQYzD9/WBVBXER+DTHXyW9AU3k6WN2egkf8kGeORZhZk86qu30OvxoCLRbYbnwtZ2hDIrRf1p9GhgbdjMvi+f64sqYurOrVFAspZl+nKgPeiFChXhlXYkVD7nvx8nD+jKwCB6Y32z0EUZiiU92dT5+r+HIggwEL79sm6AuFKXZuubbc0HHX5g8rX7bZtOzR2CLXYPX22rtCR945AeT8cy2OBMW5LKtdwDdKxXtJsHHyyroS1Mv2gVBF2dmTGG9BIjfH3rWwJWLU2C7eWknzwC6n6Owws1oqmOWh6IxM2rI/DcRNo9dCkWrAZmmOyGo4qej44pv5pDl/jjzv9C3xyKi0sLCwsLCwsLCwsLPx/+AvpCF9ui7Y8awAAAABJRU5ErkJggg==&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/01/17/struggle-28/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/01/17/struggle-28/</guid>
+        
+        <category>mysql</category>
+        
+        <category>innodb</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
+    
+      <item>
+        <title>제27차 고군분투기</title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제27차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2018년12월13일 20시00분 ~ 23시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자발표-자료&quot;&gt;발표자/발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;@JUNSIKLEE : 누구나 다 아는 초 간단 부양가족 고군분투기&lt;/strong&gt;(&lt;a href=&quot;https://docs.google.com/presentation/d/1mSobPShAgAnpWoeguOHVydM0wP395UuNfYX4Lb8t6wY&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@Sa-ryong Kang : 시니어 SW 엔지니어의 이직 고군분투기&lt;/strong&gt;(&lt;a href=&quot;https://speakerdeck.com/saryong/sinieo-swenjinieoyi-ijig-gogunbuntugi-lt&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@Moon, Insung : 한국 국민연금 해약기 - 최초 문의 부터 돈 받을때까지 초 간단 프로세스!&lt;/strong&gt;(&lt;a href=&quot;#&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@sangjun : 부업 앙케이트 결과 발표 및 부업에 관해서&lt;/strong&gt;(&lt;a href=&quot;https://docs.google.com/presentation/d/1MR9FvrCU8vq2_kfIO8R330q0EyHIOSILUg3MXb8OJSI/edit&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@Sangwhan Moon : Emerging Web: 확장성을 고려한 Web API 동향과 기능 다각화&lt;/strong&gt;(&lt;a href=&quot;https://www.dropbox.com/s/ga7pyc8hkoj3pin/emergingweb.pdf?dl=0&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt; &lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2239665356278197&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/48266564_2047329735305669_759014596303388672_o.jpg?_nc_cat=103&amp;amp;_nc_ht=scontent-nrt1-1.xx&amp;amp;oh=01f7f28c03702d0a0fbcebcc88849b50&amp;amp;oe=5CE443FB&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;株式会社LINE&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Dec 2018 23:48:05 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/12/15/struggle-27/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/12/15/struggle-27/</guid>
+        
+        <category>struggle</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제26차 고군분투기</title>
@@ -454,378 +628,64 @@
     
       <item>
         <title>제20차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/04/スクリーンショット-2018-04-19-20.41.47.png&quot; alt=&quot;スクリーンショット 2018-04-19 20.41.47&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
 
 &lt;p&gt;제목 : 제20차 Kodeveloper 고군분투기&lt;br /&gt;
 일시 : 2018년04월19일 20시 00분 ~&lt;/p&gt;
 
 &lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
 
-&lt;p&gt;@jaesungmoon : 모바일앱 개발에서의 폴리글랏 프로그래밍&lt;br /&gt;
-@biwol: Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;@jaesungmoon : 모바일앱 개발에서의 폴리글랏 프로그래밍&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/52690901-7f645500-2fa2-11e9-9f7c-ad934e7512e0.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;iOS&amp;amp;Android developer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@biwol: Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/52690965-b3d81100-2fa2-11e9-80ae-a09b8d6ddfc6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;전직 개발자. 현직 Payment service planning, PM, 앞마당쓸기, 상사한테 욕먹기를 담당하고 있습니다. 관심분야는 시키는거 흉내내기, 따라하기정도 입니다. 얇고 넓은 지식수집을 지향합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
 
-&lt;h5 id=&quot;jaesungmoon모바일앱-개발에서의-폴리글랏-프로그래밍-자료링크&quot;&gt;@jaesungmoon:모바일앱 개발에서의 폴리글랏 프로그래밍 (&lt;a href=&quot;https://docs.google.com/presentation/d/1oA9aHCWKqj7xyxV5N37qH59RV1Dj6TZooh_dsgNb-Bk/edit#slide=id.p&quot;&gt;자료링크&lt;/a&gt;)&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/04/30710692_1791944371102292_6271605610345660416_n.jpg&quot; alt=&quot;30710692_1791944371102292_6271605610345660416_n&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;@jaesungmoon : 모바일앱 개발에서의 폴리글랏 프로그래밍&lt;/strong&gt;(&lt;a href=&quot;https://docs.google.com/presentation/d/1oA9aHCWKqj7xyxV5N37qH59RV1Dj6TZooh_dsgNb-Bk/edit#slide=id.p&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h5 id=&quot;biwolwalletless의-구현가능성과-현재-line-pay의-전자머니에-대한-설명-비공개&quot;&gt;@biwol:Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명 (비공개)&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/04/30740958_1791972977766098_8811787807665160192_n.jpg&quot; alt=&quot;30740958_1791972977766098_8811787807665160192_n&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;@biwol: Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명&lt;/strong&gt;(&lt;a href=&quot;https://kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/04/19/struggle-20/update_me&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
 
 &lt;hr /&gt;
-
-&lt;h3 id=&quot;kode-challenge&quot;&gt;Kode Challenge&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&amp;lt;code&amp;gt;#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-2. 발표자는 획득한 지목권을 사용하여, 발표후 &quot;3일&quot; 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-4. (...무한 반복...)&amp;lt;/code&amp;gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
 
 &lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
 
 &lt;p&gt; &lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2070354799875921&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/52691049-00235100-2fa3-11e9-965e-ba6e09da02a0.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2017/03/logo_referme.png&quot; alt=&quot;logo_referme&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/52701245-20f8a000-2fbd-11e9-8e46-bfd7c3470da3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 19 Apr 2018 11:42:33 +0000</pubDate>
+        <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
         <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/04/19/struggle-20/</link>
         <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/04/19/struggle-20/</guid>
         
         <category>polyglot</category>
         
+        <category>mobile</category>
         
-        <category>고군분투기</category>
+        <category>walletless</category>
         
-      </item>
-    
-      <item>
-        <title>제19차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/03/struggle-19.png&quot; alt=&quot;struggle-19&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제19차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2018년03월15일 20시 00분 ~&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;@simonTokyo: 엔지니어가 모르는 AI, 양자컴퓨터와 IBM의 오픈소스와의 관계, 그것을 지지하는 IBM Cloud&lt;br /&gt;
-@요다: Selenide: CONCISE UI TESTS IN JAVA&lt;br /&gt;
-@doli6317 : iOS Animation 고군분투기&lt;br /&gt;
-@ju.inho: 데이터베이스의 성능향상을 위한 기본정보&lt;/p&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-
-&lt;h5 id=&quot;simontokyo엔지니어가-모르는-ai-양자컴퓨터와-ibm의-오픈소스와의-관계-그것을-지지하는-ibm-cloud&quot;&gt;@simonTokyo: 엔지니어가 모르는 AI, 양자컴퓨터와 IBM의 오픈소스와의 관계, 그것을 지지하는 IBM Cloud&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/03/sa-200x300.jpg&quot; alt=&quot;sa&quot; /&gt;&lt;/p&gt;
-
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;How it Works: Quantum Computing
-
-https://youtu.be/WVv5OAR4Nik  
-Running an experiment in the IBM Quantum Experience  
-https://youtu.be/pYD6bvKLI_c
-
-Open Source Projects
-
-Python:  
-QISKit  
-https://www.qiskit.org  
-The Quantum Information Software Kit (QISKit for short) is a software development kit (SDK) for working with OpenQASM and the IBM Q experience (QX).
-
-Swift:  
-Kitura (Runtime for Swift on Cloud Foundry App)  
-http://www.kitura.io  
-Server-side Swift. A high performance and simple to use web framework for building modern Swift applications.
-
-Node.js/JavaScript :  
-PouchDB/CouchDB (IBM Cloudant)  
-https://pouchdb.com  
-JSON NoSQL DB. PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.  
-Node-RED  
-https://nodered.org  
-Node-RED is a programming tool for wiring together hardware devices; APIs and online services in new and interesting ways.
-
-Java/PHP/Swift/Python/Node.js/JavaScript:  
-OpenWhisk (IBM Cloud Functions)  
-https://openwhisk.apache.org  
-Apache OpenWhisk is a serverless open source cloud platform that executes functions in response to events at any scale.  
-Hyperledger Cello  
-https://www.hyperledger.org/projects/cello  
-Blockchain module toolkit and one of the Hyperledger projects.  
-IBM Watson API  
-https://www.ibm.com/watson/developer/  
-IBM Code  
-https://developer.ibm.com/code/  
-IBM Cloud (Bluemix)  
-https://bluemix.net
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;hr /&gt;
-
-&lt;h5 id=&quot;요다selenide-concise-ui-tests-in-java-koreanjapanese&quot;&gt;@요다:Selenide: CONCISE UI TESTS IN JAVA (&lt;a href=&quot;https://docs.google.com/presentation/d/1WI5rYHtxHFLgNXjnHy0W4wBa-MNKdgzWQNnZ-QsGU-M/edit#slide=id.p&quot;&gt;Korean&lt;/a&gt;、&lt;a href=&quot;https://docs.google.com/presentation/d/1wpLI5G2XxPeEMPUgpK4gTbo5e5QkSjLNbwa-bMqMSTI/edit&quot;&gt;Japanese)&lt;/a&gt;&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/03/yoda-200x300.jpg&quot; alt=&quot;yoda&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h5 id=&quot;doli6317-ios-animation-고군분투기자료링크&quot;&gt;@doli6317: iOS Animation 고군분투기 (&lt;a href=&quot;https://docs.google.com/presentation/d/1LQ45OjI8eINvJ9-OqlKow-keHRJAo5zHM6c841qeeDc/edit#slide=id.g353ebdbd6a_2_50&quot;&gt;자료링크&lt;/a&gt;)&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/03/woo-200x300.jpg&quot; alt=&quot;woo&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h5 id=&quot;juinho-데이터베이스의-성능향상을-위한-기본정보-자료링크&quot;&gt;@ju.inho: 데이터베이스의 성능향상을 위한 기본정보 (&lt;a href=&quot;https://drive.google.com/file/d/1eO842cIMmKVquzJIZHD91sF9H2oD6VH9/view&quot;&gt;자료링크&lt;/a&gt;)&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/03/juinho-200x300.jpg&quot; alt=&quot;juinho&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;kode-challenge&quot;&gt;Kode Challenge&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&amp;lt;code&amp;gt;#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-2. 발표자는 획득한 지목권을 사용하여, 발표후 &quot;3일&quot; 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-4. (...무한 반복...)&amp;lt;/code&amp;gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt; &lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2052709921640409&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/03/eve_70-1024x768.jpg&quot; alt=&quot;eve_70&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;장소&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;・ IBM Japan&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</description>
-        <pubDate>Fri, 16 Mar 2018 03:52:46 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/03/16/struggle-19/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/03/16/struggle-19/</guid>
-        
-        <category>db</category>
-        
-        <category>ios</category>
-        
-        <category>quantum</category>
-        
-        <category>selenide</category>
-        
-        <category>양자컴퓨터</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제18차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/02/スクリーンショット-2018-02-18-14.19.21.png&quot; alt=&quot;スクリーンショット 2018-02-18 14.19.21&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제18차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2018년02월15일 20시 00분 ~&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;@daebum-lee: Chaos Engineering&lt;br /&gt;
-@sangjun: chrome extenstion &lt;br /&gt;
-@manggu: Oracle Tips&lt;/p&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-
-&lt;h5 id=&quot;daebum-leechaos-engineering-자료링크&quot;&gt;@daebum-lee: Chaos Engineering (자료링크)&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/02/chaos_engineering.png&quot; alt=&quot;chaos_engineering&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h5 id=&quot;sangjunchrome-extenstion-자료링크&quot;&gt;@sangjun: chrome extenstion (&lt;a href=&quot;https://docs.google.com/presentation/d/1Jvld2X56ptBnpkVRLGbp32IQVo8zZpQGK5zotZ08IyU/edit#slide=id.g33472d7f6b_0_101&quot;&gt;자료링크&lt;/a&gt;)&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/02/Image-uploaded-from-iOS-8.jpg&quot; alt=&quot;Image uploaded from iOS (8)&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h5 id=&quot;mangguoracle-tips-자료링크&quot;&gt;@manggu: Oracle TIps (&lt;a href=&quot;https://drive.google.com/drive/u/0/folders/1W4hfPTMuoj22qncgCsd650zp4FR5iIQv&quot;&gt;자료링크&lt;/a&gt;)&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/02/27867841_1767539806876082_2213852567091795300_n.jpg&quot; alt=&quot;27867841_1767539806876082_2213852567091795300_n&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;kode-challenge&quot;&gt;Kode Challenge&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&amp;lt;code&amp;gt;#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-2. 발표자는 획득한 지목권을 사용하여, 발표후 &quot;3일&quot; 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-4. (...무한 반복...)&amp;lt;/code&amp;gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt; &lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2037640673147334&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/02/struggle18.jpg&quot; alt=&quot;struggle18&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;장소&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2016/08/logo_freakout.png&quot; alt=&quot;logo_freakout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Feb 2018 05:20:24 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/02/18/struggle-18/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/02/18/struggle-18/</guid>
-        
-        <category>chaosengineering</category>
-        
-        <category>chrome</category>
-        
-        <category>oracle</category>
-        
-        <category>Struggle</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제17차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/01/17struggle.png&quot; alt=&quot;17struggle&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제17차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2018년01월18일 20시 00분&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;@ike: 카메라&amp;amp;렌즈 스펙 파헤치기 (니콘위주)&lt;br /&gt;
-@johnzon3: 해킹 입문&lt;br /&gt;
-@daebum-lee: Kubernetes Introduction&lt;br /&gt;
-@tsukiwamoon: Encryption In PostgreSQL&lt;/p&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-
-&lt;h5 id=&quot;ike-카메라렌즈-스펙-파헤치기-니콘위주&quot;&gt;@ike: 카메라&amp;amp;렌즈 스펙 파헤치기 (니콘위주) &lt;/h5&gt;
-
-&lt;p&gt;자료비공개&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h5 id=&quot;johnzon3-해킹-입문&quot;&gt;@johnzon3: 해킹 입문&lt;/h5&gt;
-
-&lt;p&gt;자료비공개&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h5 id=&quot;daebum-lee-kubernetes입문&quot;&gt;@daebum-lee: kubernetes입문&lt;/h5&gt;
-
-&lt;p&gt;자료비공개&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h5 id=&quot;tsukiwamoon-encryption-in-postgresql&quot;&gt;@tsukiwamoon: Encryption In PostgreSQL&lt;/h5&gt;
-
-&lt;p&gt;자료비공개&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;kode-challenge&quot;&gt;Kode Challenge&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&amp;lt;code&amp;gt;#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-2. 발표자는 획득한 지목권을 사용하여, 발표후 &quot;3일&quot; 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-4. (...무한 반복...)&amp;lt;/code&amp;gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2022621387982596&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/26731640_1757064297923633_3901986910011354223_n.jpg?oh=dd6e21f3874e7b8c3e0fb2b9355ea210&amp;amp;oe=5AEF931C&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;장소&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kodeveloper.com/wp-content/uploads/2018/01/logo_primary_orange-300x225.png&quot; alt=&quot;logo_primary_orange&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Jan 2018 13:18:16 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/01/18/struggle-17/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/01/18/struggle-17/</guid>
-        
-        <category>encryption</category>
-        
-        <category>hacking</category>
-        
-        <category>introduction</category>
-        
-        <category>kodeveloper</category>
-        
-        <category>kubernetes</category>
-        
-        <category>nikon</category>
-        
-        <category>postgresql</category>
+        <category>linepay</category>
         
         
         <category>고군분투기</category>
