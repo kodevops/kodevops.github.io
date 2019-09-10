@@ -5,9 +5,100 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Jul 2019 03:06:41 +0000</pubDate>
-    <lastBuildDate>Sun, 14 Jul 2019 03:06:41 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Sep 2019 08:07:43 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Sep 2019 08:07:43 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제34차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2019년 08월 28일 20시00분 ~ 22시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;@mj.park : AWS 환경 구축 및 운영과 보안 - 1편 AWS환경 구축&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/64594000-1fc01200-d3ea-11e9-8b5c-3eee6f971a6b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;AWS Japan에서 서포트 엔지니어 하고 있습니다. 근데 AWS 잘 몰라서 맨날 욕먹고 있습니다. ㅋㅋㅋ ㅠ,.ㅠ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;@mj.park : AWS 환경 구축 및 운영과 보안 - 1편 AWS환경 구축&lt;/strong&gt;
+![]Comming soon
+&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/64595356-bb528200-d3ec-11e9-9a54-716d96dbdd81.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2407944296116968&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/64593971-159e1380-d3ea-11e9-8e39-cbdba1c50bb1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;日本アイ・ビー・エム株式会社&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Sep 2019 08:07:43 +0000</pubDate>
+        <link>kodeveloper.com/2019/09/10/2019-08-28-struggle-34/</link>
+        <guid isPermaLink="true">kodeveloper.com/2019/09/10/2019-08-28-struggle-34/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제33차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2019년 07월 25일 20시00분 ~ 22시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;@haneri : 기본적인 Web Architecture 구성을 위한 신입 엔지니어 Syllabus&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/63405321-6345e280-c421-11e9-8990-81ef254351d0.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m an IBMer! https://www.linkedin.com/in/haneri&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@Junhwan Kim : 소프트웨어 장인을 향한 긴 여정&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/63405326-68a32d00-c421-11e9-94ad-73dbdc513a8d.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;川崎에서 Java로 통신관련 툴 개발중입니다. 하나하나 배우고 나누겠습니다 ㅎㅎ. 중복된 코드를 계속 만들어내는 Copy&amp;amp;paste 빌런과 매일매일 싸우고 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;@haneri : 기본적인 Web Architecture 구성을 위한 신입 엔지니어 Syllabus&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;@Junhwan Kim : 소프트웨어 장인을 향한 긴 여정&lt;/strong&gt;(&lt;a href=&quot;https://docs.google.com/presentation/d/17cCYH1t9nNLyBKIuns-062Wc1JIwumv7mI1wCPYRwgQ/edit#slide=id.p&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2384891211755610&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/63405077-88862100-c420-11e9-8080-0667242b7995.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;株式会社サイバーエージェント&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/63405237-0ba77700-c421-11e9-9dd6-a570148620ff.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Sep 2019 08:07:43 +0000</pubDate>
+        <link>kodeveloper.com/2019/09/10/2019-07-25-struggle-33/</link>
+        <guid isPermaLink="true">kodeveloper.com/2019/09/10/2019-07-25-struggle-33/</guid>
+        
+        
+      </item>
     
       <item>
         <title>제32차 고군분투기</title>
@@ -563,103 +654,6 @@ https://kodeveloper.com/about/&lt;/p&gt;
         <category>android</category>
         
         <category>ios</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제24차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제24차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2018년08월16일 20시00분 ~&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;@kimsuhyuk : SRE홅아보기&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/24/kimsuhyuk.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;개발만 빼고 이것저것 잡다하게 하고 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;@kimsuhyuk : SRE홅아보기&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;비공개&lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2164427673801966&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/24/everyone.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;Repro株式会社&lt;/p&gt;
-</description>
-        <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/08/21/struggle-24/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/08/21/struggle-24/</guid>
-        
-        <category>SRE</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제23차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제23차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2018년07월19일 20시00분 ~&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;@manggu : ELK2&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/23/manggu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Rakuten Travel 에서 Tech쪽 매니저질 하고 있습니다. 최근 관심은 microservice와 Elastic Stack관련입니다. 특기는 입고팅과 Oracle SQL 튜닝, ELK관련 설치 튜닝은 무리. 어플리쪽은 Java가 메인. DB쪽은 Oracle, Mongodb, Redis?, Elasticsearch 웹서버는 Tomcat메인에 Nginx는 잘하고 싶은 열망만 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;@manggu : ELK2&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;비공개&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;@daebum-lee : Hello, GDPR!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;비공개
- &lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2133830396861694&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/23/everyone.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;株式会社サイバーエージェント&lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/08/06/struggle-23/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/08/06/struggle-23/</guid>
-        
-        <category>ELK</category>
-        
-        <category>GDPR</category>
         
         
         <category>고군분투기</category>
