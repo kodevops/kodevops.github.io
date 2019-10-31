@@ -5,9 +5,56 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 31 Oct 2019 01:56:49 +0000</pubDate>
-    <lastBuildDate>Thu, 31 Oct 2019 01:56:49 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Oct 2019 02:10:06 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Oct 2019 02:10:06 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제35차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2019년 09월 19일 20시00분 ~ 22시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;@Minseong Na : IDaaS를 포함한 XaaS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/67912294-d9f31f00-fbcc-11e9-98c4-53009bc166a6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;보험, 전기, B2B를 거쳐 현재는 B2C서비스에서 일하는 4년차 SIer입니다. 최근 관심은 이직입니다. 그러기 위해서 이것 저것 배우고 익히고 만드는 중입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;@Manggu : GKE소개&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/67912423-4110d380-fbcd-11e9-9a5b-5d3a96256901.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;GCP초보 생활에 막 들어갔습니다..&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Minseong Na : IDaaS를 포함한 XaaS&lt;/strong&gt;
+![]Comming soon&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;@Manggu GKE소개&lt;/strong&gt;
+&lt;img src=&quot;https://github.com/kodevops/blog/files/3791818/GKE.pdf&quot; alt=&quot;GKE소개&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2425440257700705&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/67912482-6d2c5480-fbcd-11e9-9166-07680d5b97da.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;日本アイ・ビー・エム株式会社&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Oct 2019 02:10:06 +0000</pubDate>
+        <link>kodeveloper.com/2019/10/31/2019-09-19-struggle-35/</link>
+        <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-09-19-struggle-35/</guid>
+        
+        
+      </item>
     
       <item>
         <title></title>
@@ -39,7 +86,7 @@
 
 &lt;p&gt;日本アイ・ビー・エム株式会社&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 01:56:49 +0000</pubDate>
+        <pubDate>Thu, 31 Oct 2019 02:10:06 +0000</pubDate>
         <link>kodeveloper.com/2019/10/31/2019-08-28-struggle-34/</link>
         <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-08-28-struggle-34/</guid>
         
@@ -93,7 +140,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/63405237-0ba77700-c421-11e9-9dd6-a570148620ff.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 01:56:49 +0000</pubDate>
+        <pubDate>Thu, 31 Oct 2019 02:10:06 +0000</pubDate>
         <link>kodeveloper.com/2019/10/31/2019-07-25-struggle-33/</link>
         <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-07-25-struggle-33/</guid>
         
@@ -602,58 +649,6 @@ https://kodeveloper.com/about/&lt;/p&gt;
         <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/11/18/struggle-26/</guid>
         
         <category>architecture</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제25차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제25차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2018년10월23일 20시00분 ~&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;IBM Japan 이정우님 : iOS UITest Introduction and Best Practice.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/25/이정우.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;강사룡님 : 극한직업: 6개의 legacy Android / iOS 앱을 8개월만에 리뉴얼 한 이야기(최근의 모바일 기술에 대한 소감: 아키텍처(MVP, MVVM), 언어(Swift, Kotlin), 기타(Rx, DI, AAC, coroutine))&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/25/강사룡.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;IBM Japan 이정우님 : iOS UITest Introduction and Best&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;비공개&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;강사룡님 : 6개의 legacy Android / iOS 앱을 8개월만에 리뉴얼 한 이야기!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;비공개 &lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2206033656308034&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/25/everyone.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;IBM Japan &lt;/p&gt;
-</description>
-        <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/10/23/struggle-25/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/10/23/struggle-25/</guid>
-        
-        <category>android</category>
-        
-        <category>ios</category>
         
         
         <category>고군분투기</category>
