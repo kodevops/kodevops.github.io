@@ -5,8 +5,8 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 31 Oct 2019 02:26:07 +0000</pubDate>
-    <lastBuildDate>Thu, 31 Oct 2019 02:26:07 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Oct 2019 07:08:10 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Oct 2019 07:08:10 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -34,10 +34,10 @@
 
 &lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : 미디어 스트리밍의 기초&lt;/strong&gt;
-&lt;img src=&quot;https://docs.google.com/presentation/d/1S5wWHhcHEthlUjTi0NuPUL-knoXxqwN5G8Kpp_Z3N90/edit#slide=id.p&quot; alt=&quot;미디어 스트리밍의 기초&quot; /&gt;&lt;/p&gt;
+&lt;a href=&quot;https://docs.google.com/presentation/d/1S5wWHhcHEthlUjTi0NuPUL-knoXxqwN5G8Kpp_Z3N90/edit#slide=id.p&quot;&gt;미디어 스트리밍의 기초&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;이대범(@daebum-lee) : 클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교&lt;/strong&gt;
-&lt;img src=&quot;https://github.com/kodevops/blog/files/3791818/GKE.pdf&quot; alt=&quot;클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교&quot; /&gt;&lt;/p&gt;
+&lt;a href=&quot;https://github.com/kodevops/blog/files/3791818/GKE.pdf&quot;&gt;클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
 
@@ -50,7 +50,7 @@
 &lt;p&gt;株式会社LIFULL半蔵門本社
 &lt;img src=&quot;https://user-images.githubusercontent.com/2956728/67913126-5be44780-fbcf-11e9-82fc-b07ddaa4588f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 02:26:07 +0000</pubDate>
+        <pubDate>Thu, 31 Oct 2019 07:08:10 +0000</pubDate>
         <link>kodeveloper.com/2019/10/31/2019-10-17-struggle-36/</link>
         <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-10-17-struggle-36/</guid>
         
@@ -85,7 +85,7 @@
 ![]Comming soon&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;@Manggu GKE소개&lt;/strong&gt;
-&lt;img src=&quot;https://github.com/kodevops/blog/files/3791818/GKE.pdf&quot; alt=&quot;GKE소개&quot; /&gt;&lt;/p&gt;
+&lt;a href=&quot;https://github.com/kodevops/blog/files/3791818/GKE.pdf&quot;&gt;GKE소개&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
 
@@ -97,7 +97,7 @@
 
 &lt;p&gt;日本アイ・ビー・エム株式会社&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 02:26:07 +0000</pubDate>
+        <pubDate>Thu, 31 Oct 2019 07:08:10 +0000</pubDate>
         <link>kodeveloper.com/2019/10/31/2019-09-19-struggle-35/</link>
         <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-09-19-struggle-35/</guid>
         
@@ -134,7 +134,7 @@
 
 &lt;p&gt;日本アイ・ビー・エム株式会社&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 02:26:07 +0000</pubDate>
+        <pubDate>Thu, 31 Oct 2019 07:08:10 +0000</pubDate>
         <link>kodeveloper.com/2019/10/31/2019-08-28-struggle-34/</link>
         <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-08-28-struggle-34/</guid>
         
@@ -188,7 +188,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/63405237-0ba77700-c421-11e9-9dd6-a570148620ff.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 02:26:07 +0000</pubDate>
+        <pubDate>Thu, 31 Oct 2019 07:08:10 +0000</pubDate>
         <link>kodeveloper.com/2019/10/31/2019-07-25-struggle-33/</link>
         <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-07-25-struggle-33/</guid>
         
