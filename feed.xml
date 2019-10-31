@@ -5,9 +5,57 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 31 Oct 2019 02:25:14 +0000</pubDate>
-    <lastBuildDate>Thu, 31 Oct 2019 02:25:14 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Oct 2019 02:26:07 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Oct 2019 02:26:07 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제36차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2019년 10월 17일 20시00분 ~ 22시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : 미디어 스트리밍의 기초&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/67913172-7f0ef700-fbcf-11e9-93cf-09928a03ba6b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;cpp, golang, java 로 개발하고있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;이대범(@daebum-lee) : 클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/67913207-9ea61f80-fbcf-11e9-9aaa-83ec6ba2d294.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;IBM Japan, 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : 미디어 스트리밍의 기초&lt;/strong&gt;
+&lt;img src=&quot;https://docs.google.com/presentation/d/1S5wWHhcHEthlUjTi0NuPUL-knoXxqwN5G8Kpp_Z3N90/edit#slide=id.p&quot; alt=&quot;미디어 스트리밍의 기초&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;이대범(@daebum-lee) : 클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교&lt;/strong&gt;
+&lt;img src=&quot;https://github.com/kodevops/blog/files/3791818/GKE.pdf&quot; alt=&quot;클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2454765421434855&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/67913241-b8476700-fbcf-11e9-8021-082c7304e3ed.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;株式会社LIFULL半蔵門本社
+&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/67913126-5be44780-fbcf-11e9-82fc-b07ddaa4588f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Oct 2019 02:26:07 +0000</pubDate>
+        <link>kodeveloper.com/2019/10/31/2019-10-17-struggle-36/</link>
+        <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-10-17-struggle-36/</guid>
+        
+        
+      </item>
     
       <item>
         <title></title>
@@ -49,7 +97,7 @@
 
 &lt;p&gt;日本アイ・ビー・エム株式会社&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 02:25:14 +0000</pubDate>
+        <pubDate>Thu, 31 Oct 2019 02:26:07 +0000</pubDate>
         <link>kodeveloper.com/2019/10/31/2019-09-19-struggle-35/</link>
         <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-09-19-struggle-35/</guid>
         
@@ -86,7 +134,7 @@
 
 &lt;p&gt;日本アイ・ビー・エム株式会社&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 02:25:14 +0000</pubDate>
+        <pubDate>Thu, 31 Oct 2019 02:26:07 +0000</pubDate>
         <link>kodeveloper.com/2019/10/31/2019-08-28-struggle-34/</link>
         <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-08-28-struggle-34/</guid>
         
@@ -140,7 +188,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/2956728/63405237-0ba77700-c421-11e9-9dd6-a570148620ff.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Oct 2019 02:25:14 +0000</pubDate>
+        <pubDate>Thu, 31 Oct 2019 02:26:07 +0000</pubDate>
         <link>kodeveloper.com/2019/10/31/2019-07-25-struggle-33/</link>
         <guid isPermaLink="true">kodeveloper.com/2019/10/31/2019-07-25-struggle-33/</guid>
         
@@ -586,69 +634,6 @@ https://kodeveloper.com/about/&lt;/p&gt;
         <category>국민연금</category>
         
         <category>Emerging Web</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제26차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제26차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2018년11월15일 20시00분 ~ 22시00분&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;@manggu : Rakuten Travel Tag System Architecture&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/26/manggu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Rakuten Travel 에서 Tech쪽 매니저질 하고 있습니다.
-최근 관심은 microservice와 Elastic Stack관련입니다.
-특기는 입고팅과 Oracle SQL 튜닝, ELK관련 설치 튜닝은 무리.
-어플리쪽은 Java가 메인. DB쪽은 Oracle, Mongodb, Redis?, Elasticsearch 웹서버는 Tomcat메인에 Nginx는 잘하고 싶은 열망만 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;@daebum-lee : 훑어보는 아키텍처 설계이야기&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/26/daebum-lee.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;관심분야는 Blockchain / 시스템 설계 / k8s / container / 여행 / 맥주 / 라면 / 교자 / 등등&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;@manggu : Rakuten Travel Tag System Architecture&lt;/strong&gt;(&lt;a href=&quot;https://www.slideshare.net/minsoojun/2018-tech-conftag&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
-
-&lt;iframe src=&quot;https//www.slideshare.net/slideshow/embed_code/key/4a9XJaEhiLCUhN&quot; width=&quot;700&quot; height=&quot;600&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;@daebum-lee : 훑어보는 아키텍처 설계이야기&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;비공개&lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2220374948207238&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/26/everyone.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;株式会社LIFULL&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/11/18/struggle-26/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/11/18/struggle-26/</guid>
-        
-        <category>architecture</category>
         
         
         <category>고군분투기</category>
