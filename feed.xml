@@ -5,8 +5,8 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 08 Aug 2020 04:01:19 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Aug 2020 04:01:19 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2020 08:52:51 +0000</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2020 08:52:51 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -151,7 +151,8 @@
         <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
 
 &lt;p&gt;제목 : 제38차 Kodeveloper 고군분투기 (온라인) &lt;br /&gt;
-일시 : 2020년 05월 14일 19시00분 ~ 22시10분&lt;/p&gt;
+일시 : 2020년 05월 14일 19시00분 ~ 22시10분&lt;br /&gt;
+장소 : 온라인&lt;/p&gt;
 
 &lt;p&gt;타임라인 &lt;br /&gt;
 19:00 ~ 19:05 이벤트 안내 &lt;br /&gt;
@@ -213,7 +214,9 @@
         <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
 
 &lt;p&gt;제목 : 제37차 Kodeveloper 고군분투기 &amp;amp; 송년회 &lt;br /&gt;
-일시 : 2019년 12월 19일 18:30 ~ 24:00&lt;/p&gt;
+일시 : 2019년 12월 19일 18:30 ~ 24:00&lt;br /&gt;
+장소 : Google Japan Inc.&lt;br /&gt;
+주소 : 渋谷ストリーム 5F, 東京都渋谷区渋谷三丁目21番3号 150-0002&lt;/p&gt;
 
 &lt;p&gt;당일 일정 : &lt;br /&gt;
 18:30 ~ 19:00 접수&lt;br /&gt;
@@ -250,7 +253,14 @@
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : GAS(Google Apps Script)+Firebase활용하기&lt;/strong&gt; - TODO&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;전민수(@manggu) : SRE(Site Reliability Engineering)&lt;/strong&gt; - TODO&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;이대범(@daebum-lee) : 코디벨로퍼 연말정산&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1vVkbYNlhwk8Thlx8hE_v0sFTWaeeI98W/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/37/presentation-daebum-lee.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
 
@@ -291,8 +301,11 @@
         <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
 
 &lt;p&gt;제목 : 제36차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2019년 10월 17일 20시00분 ~ 22시00분
-주제 : 미디어 스트리밍 시스템&lt;/p&gt;
+일시 : 2019년 10월 17일 20시00분 ~ 22시00분&lt;br /&gt;
+주제 : 미디어 스트리밍 시스템&lt;br /&gt;
+장소 : 株式会社LIFULL半蔵門本社、2F&lt;br /&gt;
+주소 : 〒102-0083 東京都千代田区麹町1-4-4&lt;br /&gt;
+가까운역地 : 下鉄半蔵門線 半蔵門駅 3b出口より徒歩2分, 地下鉄有楽町線 麹町駅3出口より徒歩6分&lt;/p&gt;
 
 &lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
 
@@ -313,9 +326,13 @@
 &lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : 미디어 스트리밍의 기초&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1S5wWHhcHEthlUjTi0NuPUL-knoXxqwN5G8Kpp_Z3N90/edit#slide=id.p&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/img/struggle/36/presentation-beomnyeong.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;이대범(@daebum-lee) : 미디어 스트리밍 아키텍처 입문&lt;/strong&gt; - &lt;a href=&quot;https://www.slideshare.net/daebumlee/media-streaming-architecture-introduction&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/FqdzvMZDuEwbZW&quot; width=&quot;700&quot; height=&quot;600&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
 
 &lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
 
@@ -344,7 +361,10 @@
         <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
 
 &lt;p&gt;제목 : 제35차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2019년 09월 19일 20시00분 ~ 22시00분&lt;/p&gt;
+일시 : 2019년 09월 19일 20시00분 ~ 22시00분&lt;br /&gt;
+장소 : 日本IBM&lt;br /&gt;
+주소 : 〒103-8510 東京都中央区日本橋箱崎町19-21&lt;br /&gt;
+가까운역: 도쿄 메트로 한조몬선 水天宮前駅&lt;/p&gt;
 
 &lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
 
@@ -366,15 +386,13 @@
 
 &lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;@Minseong Na : IDaaS를 포함한 XaaS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Comming soon&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;@Minseong Na : IDaaS를 포함한 XaaS&lt;/strong&gt; - 비공개&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;@Manggu GKE소개&lt;/strong&gt; - &lt;a href=&quot;https://github.com/kodevops/blog/files/3791818/GKE.pdf&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/35/presentation-Manggu.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
 
@@ -404,7 +422,10 @@
         <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
 
 &lt;p&gt;제목 : 제34차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2019년 08월 28일 20시00분 ~ 22시00분
+일시 : 2019년 08월 28일 20시00분 ~ 22시00분&lt;br /&gt;
+장소 : 日本IBM&lt;br /&gt;
+주소 : 〒103-8510 東京都中央区日本橋箱崎町19-21&lt;br /&gt;
+가까운역: 도쿄 메트로 한조몬선 水天宮前駅&lt;br /&gt;
 주제 : AWS 환경 구축 및 운영과 보안&lt;/p&gt;
 
 &lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
@@ -418,11 +439,7 @@
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;@mj.park : AWS 환경 구축 및 운영과 보안 - 1편 AWS환경 구축&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Comming soon&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;@mj.park : AWS 환경 구축 및 운영과 보안 - 1편 AWS환경 구축&lt;/strong&gt; - 비공개&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/struggle/34/aws.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -454,8 +471,11 @@
         <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
 
 &lt;p&gt;제목 : 제33차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2019년 07월 25일 20시00분 ~ 22시00분
-주제 : 새로운 서비스 런칭 고군분투기&lt;/p&gt;
+일시 : 2019년 07월 25일 20시00분 ~ 22시00분&lt;br /&gt;
+주제 : 새로운 서비스 런칭 고군분투기&lt;br /&gt;
+장소 : 株式会社サイバーエージェント Abema Towers（アベマタワーズ）&lt;br /&gt;
+주소 : 東京都渋谷区宇田川町40番1号 Abema Towers&lt;br /&gt;
+가까운 역 :  渋谷駅&lt;/p&gt;
 
 &lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
 
@@ -479,11 +499,13 @@
 
 &lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;@ohgook kwon&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1Uhwye8oE40Fh54o2GdvC9yNTX-p3jjoC/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;@ohgook kwon: 새로운 서비스 런칭 고군분투기&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1Uhwye8oE40Fh54o2GdvC9yNTX-p3jjoC/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/33/presentation-ohgookkwon.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;@ninetin : 비공개&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;@ninetin : 새로운 서비스 런칭 고군분투기&lt;/strong&gt; - 비공개&lt;/p&gt;
 
 &lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
 
@@ -515,7 +537,9 @@
         <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
 
 &lt;p&gt;제목 : 제32차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2019년05월16일 20시00분 ~ 22시00분&lt;/p&gt;
+일시 : 2019년05월16일 20시00분 ~ 22시00분&lt;br /&gt;
+장소 : 日本IBM&lt;br /&gt;
+주소 : 〒103-8510 東京都中央区日本橋箱崎町19-21&lt;/p&gt;
 
 &lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
 
@@ -547,6 +571,8 @@
 
 &lt;p&gt;&lt;strong&gt;@Junhwan Kim : 소프트웨어 장인을 향한 긴 여정&lt;/strong&gt;(&lt;a href=&quot;https://docs.google.com/presentation/d/17cCYH1t9nNLyBKIuns-062Wc1JIwumv7mI1wCPYRwgQ/edit#slide=id.p&quot;&gt;자료&lt;/a&gt;)&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/img/struggle/32/presentation-JunhwanKim.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2280563632188369&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
@@ -573,7 +599,10 @@
         <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
 
 &lt;p&gt;제목 : 제31차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2019년04월18일 20시00분 ~ 22시00분&lt;/p&gt;
+일시 : 2019년04월18일 20시00분 ~ 22시00분&lt;br /&gt;
+장소 : 株式会社ミクシィ(mixi)&lt;br /&gt;
+주소 : 東京都渋谷区渋谷3-3-5 NBF渋谷イースト6F&lt;br /&gt;
+가까운 역 :  渋谷駅&lt;/p&gt;
 
 &lt;h3 id=&quot;앞으로의-kodeveloper에-대해서&quot;&gt;앞으로의 Kodeveloper에 대해서&lt;/h3&gt;
 
