@@ -5,9 +5,74 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 01 Oct 2020 02:28:42 +0000</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2020 02:28:42 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2020 12:49:27 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2020 12:49:27 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>제43차 고군분투기</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/43/struggle.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제43차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
+일시 : 2020년 10월 15일 20시00분 ~ 22시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
+
+&lt;p&gt;20:00 ~ 20:05 : 안내&lt;br /&gt;
+20:05 ~ 20:45 : 모던 개발 요소들 사이의 상관관계 고찰(도현님)&lt;br /&gt;
+20:45 ~ 20:55 : Q&amp;amp;A&lt;br /&gt;
+20:55 ~ 21:25 : 도시농부/도시어부(민수님)&lt;br /&gt;
+21:05 ~ 21:10 : Q&amp;amp;A&lt;br /&gt;
+21:10 ~ 21:20 : 코로나 시국에 한국다녀온 이야기(범녕님)&lt;br /&gt;
+21:20 ~ 21:25 : 마무리 안내&lt;/p&gt;
+
+&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AAOdCGVkSzg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;정도현(@정도현) : 모던 개발 요소들 사이의 상관관계 고찰&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/16bbmQdGhCSEixtyDUg5aaxsynsNDxkvo/view&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/43/jeongdohyun.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;전민수(@manggu) : 도시농부/도시어부&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1eDht3340pjGlOHLOgtQtduHBMj-FMQvzy_pWPR10nts/edit?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/43/manggu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : 코로나 시국에 한국다녀온 이야기(출국, 재입국을 위해 필요한 절차와 격리생활)&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1vNxiPt9Zeop9wGoRwCdksusxznqPUyBwfmOm7R8_H0o/edit?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;이것저것 만들고있습니다!!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/43/kimbeomnyoung.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set?set=oa.1042152876239479&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/43/members.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2020/10/15/struggle-43/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2020/10/15/struggle-43/</guid>
+        
+        <category>서비스 개발</category>
+        
+        <category>커리어</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제42차 고군분투기</title>
@@ -618,72 +683,6 @@
         <category>Web Architecture</category>
         
         <category>AWS</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제33차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제33차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2019년 07월 25일 20시00분 ~ 22시00분&lt;br /&gt;
-주제 : 새로운 서비스 런칭 고군분투기&lt;br /&gt;
-장소 : 株式会社サイバーエージェント Abema Towers（アベマタワーズ）&lt;br /&gt;
-주소 : 東京都渋谷区宇田川町40番1号 Abema Towers&lt;br /&gt;
-가까운 역 :  渋谷駅&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;@ohgook kwon&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/33/ohgookkwon.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;ohgook kwon&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;@ninetin&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/33/ninetin.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Yahoo! JAPAN 에서 Y! Travel(여행)을 담당하고 있습니다. 네 그렇습니다. 야후!도 트래블 있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;@ohgook kwon: 새로운 서비스 런칭 고군분투기&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1Uhwye8oE40Fh54o2GdvC9yNTX-p3jjoC/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/33/presentation-ohgookkwon.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;@ninetin : 새로운 서비스 런칭 고군분투기&lt;/strong&gt; - 비공개&lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2384891211755610&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/33/members.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;株式会社サイバーエージェント&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/33/company.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/07/25/struggle-33/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/07/25/struggle-33/</guid>
-        
-        <category>new service</category>
-        
-        <category>travel</category>
         
         
         <category>고군분투기</category>
