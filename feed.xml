@@ -5,9 +5,82 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 29 Oct 2020 12:49:27 +0000</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2020 12:49:27 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2020 04:19:46 +0000</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2020 04:19:46 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>제44차 고군분투기</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/44/struggle.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제43차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
+일시 : 2020년 10월 15일 20시00분 ~ 22시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
+
+&lt;p&gt;20:00 ~ 20:05 : 안내&lt;br /&gt;
+20:05 ~ 20:20 : Bolt를 이용해 개발팀 전체가 사용하는 슬랙봇을 만든 이야기(@Eunsu Jang)&lt;br /&gt;
+20:20 ~ 20:30 : Q&amp;amp;A&lt;br /&gt;
+20:30 ~ 21:00 : 구글의 개발문화와 프로세스(1):Scale/Efficiency, Test(@Sa-ryong Kang)&lt;br /&gt;
+21:00 ~ 21:10 : Q&amp;amp;A&lt;br /&gt;
+21:10 ~ 21:40 : 청각 장애인을 위한 실시간 서버리스 자막 생성기 만들기(@Justin Yoo)&lt;br /&gt;
+21:40 ~ 21:50 : Q&amp;amp;A&lt;br /&gt;
+21:50 ~ 22:00 : 마무리 안내&lt;/p&gt;
+
+&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kellmaOumz0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;장은수(@Eunsu Jang) : Bolt를 이용해 개발팀 전체가 사용하는 슬랙봇을 만든 이야기&lt;/strong&gt; - &lt;a href=&quot;https://speakerdeck.com/unsu0707/seulraeg-boltreul-iyonghae-gaebaltim-jeoncega-sayonghaneun-seulraegboseul-mandeun-iyagi&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tokyo / Engineering Manager, Software Engineer(Rails, Java)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/44/Eunsu-Jang.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;강사룡(@Sa-ryong Kang) : 구글의 개발문화와 프로세스(1):Scale/Efficiency, Test&lt;/strong&gt; - &lt;a href=&quot;https://speakerdeck.com/saryong/testing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Senior Developer Advocate @ Google&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/44/Sa-ryong-Kang.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;저스틴 유(@Justin Yoo) : 코로나 시국에 한국다녀온 이야기(출국, 재입국을 위해 필요한 절차와 격리생활)&lt;/strong&gt; - &lt;a href=&quot;https://onedrive.live.com/?cid=41b917f1613487b5&amp;amp;id=41B917F1613487B5%2142954&amp;amp;authkey=%21AOsxW%2D3F7%2D3JWRM&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;시니어 클로우드 아드보캇 / Microsoft Developer Relations&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/44/Justin-Yoo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.175471980918712&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/44/members.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2020/11/19/struggle-44/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2020/11/19/struggle-44/</guid>
+        
+        <category>Slack Bolt</category>
+        
+        <category>Bot</category>
+        
+        <category>Testing</category>
+        
+        <category>Serverless</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제43차 고군분투기</title>
@@ -21,12 +94,13 @@
 &lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
 
 &lt;p&gt;20:00 ~ 20:05 : 안내&lt;br /&gt;
-20:05 ~ 20:45 : 모던 개발 요소들 사이의 상관관계 고찰(도현님)&lt;br /&gt;
+20:05 ~ 20:45 : 모던 개발 요소들 사이의 상관관계 고찰(@정도현)&lt;br /&gt;
 20:45 ~ 20:55 : Q&amp;amp;A&lt;br /&gt;
-20:55 ~ 21:25 : 도시농부/도시어부(민수님)&lt;br /&gt;
-21:05 ~ 21:10 : Q&amp;amp;A&lt;br /&gt;
-21:10 ~ 21:20 : 코로나 시국에 한국다녀온 이야기(범녕님)&lt;br /&gt;
-21:20 ~ 21:25 : 마무리 안내&lt;/p&gt;
+20:55 ~ 21:25 : 도시농부/도시어부(@manggu)&lt;br /&gt;
+21:25 ~ 21:35 : Q&amp;amp;A&lt;br /&gt;
+21:35 ~ 21:45 : 코로나 시국에 한국다녀온 이야기(@김범녕)&lt;br /&gt;
+21:45 ~ 21:50 : Q&amp;amp;A&lt;br /&gt;
+21:50 ~ 22:00 : 마무리 안내&lt;/p&gt;
 
 &lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
 
@@ -35,15 +109,17 @@
 &lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;정도현(@정도현) : 모던 개발 요소들 사이의 상관관계 고찰&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/16bbmQdGhCSEixtyDUg5aaxsynsNDxkvo/view&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;14년간 일본에서 일하다가,  지금은 한국에서 일하고 있는 정개발&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/struggle/43/jeongdohyun.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;전민수(@manggu) : 도시농부/도시어부&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1eDht3340pjGlOHLOgtQtduHBMj-FMQvzy_pWPR10nts/edit?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;GCP초보 생활에 막 들어갔습니다.. manggu#1453 Diablo III&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/struggle/43/manggu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -634,55 +710,6 @@
         <category>XaaS</category>
         
         <category>GKE</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제34차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제34차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2019년 08월 28일 20시00분 ~ 22시00분&lt;br /&gt;
-장소 : 日本IBM&lt;br /&gt;
-주소 : 〒103-8510 東京都中央区日本橋箱崎町19-21&lt;br /&gt;
-가까운역: 도쿄 메트로 한조몬선 水天宮前駅&lt;br /&gt;
-주제 : AWS 환경 구축 및 운영과 보안&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;@mj.park : AWS 환경 구축 및 운영과 보안 - 1편 AWS환경 구축&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/34/mjpark.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;AWS Japan에서 서포트 엔지니어 하고 있습니다. 근데 AWS 잘 몰라서 맨날 욕먹고 있습니다. ㅋㅋㅋ ㅠ,.ㅠ&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;@mj.park : AWS 환경 구축 및 운영과 보안 - 1편 AWS환경 구축&lt;/strong&gt; - 비공개&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/34/aws.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2407944296116968&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/34/members.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;日本アイ・ビー・エム株式会社&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/08/28/struggle-34/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/08/28/struggle-34/</guid>
-        
-        <category>Web Architecture</category>
-        
-        <category>AWS</category>
         
         
         <category>고군분투기</category>
