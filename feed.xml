@@ -5,9 +5,59 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 17 Dec 2020 02:50:36 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Dec 2020 02:50:36 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2021 14:19:46 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2021 14:19:46 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>2020년 연말 어워드</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/45/struggle.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 2020년 연말 어워드(온라인)&lt;br /&gt;
+일시 : 2020년 12월 17일 20시00분 ~ 21시05분&lt;/p&gt;
+
+&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
+
+&lt;p&gt;20:00 ~ 20:05 : 코디벨로퍼 소개 (커뮤니티 / 고군분투기 / 소모임)&lt;br /&gt;
+20:05 ~ 20:10 : 2020년 되돌아보기 (영상 시청)&lt;br /&gt;
+20:10 ~ 20:15 : 2020년 되돌아보기 (차트로 보는 2020년)&lt;br /&gt;
+20:15 ~ 20:20 : 20년 되돌아보기 (올해의 코디벨로퍼와 내년의 코디벨로퍼)&lt;br /&gt;
+20:20 ~ 20:40 : 토의의 장 (작년 피드백 포함 의견 나누기)&lt;br /&gt;
+20:40 ~ 20:45 : 각 부문별 1등 공개!(사전투표)&lt;br /&gt;
+20:45 ~ 21:05 : 참가자 경품 추첨&lt;/p&gt;
+
+&lt;h3 id=&quot;이벤트-영상&quot;&gt;이벤트 영상&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CTUCcAgdiTs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;2020-연말-특별-영상&quot;&gt;2020 연말 특별 영상&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xxkFxP1yxxs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set?set=oa.2550988458526863&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/45/members.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2020/12/17/struggle-45/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2020/12/17/struggle-45/</guid>
+        
+        <category>Slack Bolt</category>
+        
+        <category>Bot</category>
+        
+        <category>Testing</category>
+        
+        <category>Serverless</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제44차 고군분투기</title>
@@ -649,67 +699,6 @@
         <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/10/17/struggle-36/</guid>
         
         <category>Media Streaming</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제35차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제35차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2019년 09월 19일 20시00분 ~ 22시00분&lt;br /&gt;
-장소 : 日本IBM&lt;br /&gt;
-주소 : 〒103-8510 東京都中央区日本橋箱崎町19-21&lt;br /&gt;
-가까운역: 도쿄 메트로 한조몬선 水天宮前駅&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;@Minseong Na : IDaaS를 포함한 XaaS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/35/MinseongNa.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;보험, 전기, B2B를 거쳐 현재는 B2C서비스에서 일하는 4년차 SIer입니다. 최근 관심은 이직입니다. 그러기 위해서 이것 저것 배우고 익히고 만드는 중입니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;@Manggu : GKE소개&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/35/Manggu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;GCP초보 생활에 막 들어갔습니다..&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;@Minseong Na : IDaaS를 포함한 XaaS&lt;/strong&gt; - 비공개&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;@Manggu GKE소개&lt;/strong&gt; - &lt;a href=&quot;https://github.com/kodevops/blog/files/3791818/GKE.pdf&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/35/presentation-Manggu.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2425440257700705&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/35/members.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;日本アイ・ビー・エム株式会社&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/09/19/struggle-35/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/09/19/struggle-35/</guid>
-        
-        <category>XaaS</category>
-        
-        <category>GKE</category>
         
         
         <category>고군분투기</category>
