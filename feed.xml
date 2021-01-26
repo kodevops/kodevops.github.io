@@ -5,9 +5,81 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 19 Jan 2021 14:19:46 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Jan 2021 14:19:46 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Jan 2021 09:11:55 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Jan 2021 09:11:55 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>제45차 고군분투기</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/46/title.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제45차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
+일시 : 2021년 01월 21일 20시00분 ~ 22시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
+
+&lt;p&gt;20:00 ~ 20:05 : 안내&lt;br /&gt;
+20:05 ~ 20:20 : 재택근무 지름기(김형철님) + Q&amp;amp;A&lt;br /&gt;
+20:20 ~ 21:05 : 개발자 인생살이에 대한 연구(노성철 + 김일주님) + Q&amp;amp;A&lt;br /&gt;
+21:05 ~ 21:50 : 구글의 피드백 문화와 코드리뷰(강사룡님) + Q&amp;amp;A&lt;br /&gt;
+21:50 ~ 22:00 : 마무리 안내&lt;/p&gt;
+
+&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KBNtBPoHHBA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;김형철(@Yoda / Hyungcheol Kim) : 재택근무 지름기&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1ufliV8pUP1z-DNtUkw7m-xuVw3nmMS_UOiGcchR-J0Q/edit?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;EC주변 잡다한 일을 주로 하고 있습니다&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/46/hyungcheol.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;노성철(@Sungchul Noh) : 개발자 인생살이에 대한 연구&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1k3mk8wxM7jOl0MF5EcAx0eTNGw7KxFqb/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;사이타마 대학교 경제학부에서 일하고 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/46/sungchul.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;김일주(@ilju) : 가족 이민과 새로운 커리어의 시작&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1emj6_XYM1h4jvxt4ga4u_Vjo7IcThQBb/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/46/iljyu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;강사룡(@Sa-ryong) :&lt;/strong&gt; - &lt;a href=&quot;https://speakerdeck.com/saryong/googleyi-gaebalmunhwawa-peuroseseu-2-feedback-and-code-review&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Senior Developer Advocate @ Google&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/46/saryong.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set?set=oa.902223340539899&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/46/all.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/01/21/struggle-46/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/01/21/struggle-46/</guid>
+        
+        <category>지름신</category>
+        
+        <category>연구</category>
+        
+        <category>코드리뷰</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>2020년 연말 어워드</title>
@@ -639,66 +711,6 @@
         <category>kodeveloper</category>
         
         <category>SRE</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제36차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제36차 Kodeveloper 고군분투기&lt;br /&gt;
-일시 : 2019년 10월 17일 20시00분 ~ 22시00분&lt;br /&gt;
-주제 : 미디어 스트리밍 시스템&lt;br /&gt;
-장소 : 株式会社LIFULL半蔵門本社、2F&lt;br /&gt;
-주소 : 〒102-0083 東京都千代田区麹町1-4-4&lt;br /&gt;
-가까운역地 : 下鉄半蔵門線 半蔵門駅 3b出口より徒歩2分, 地下鉄有楽町線 麹町駅3出口より徒歩6分&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : 미디어 스트리밍의 기초&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/36/beomnyeong.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;cpp, golang, java 로 개발하고있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;이대범(@daebum-lee) : 미디어 스트리밍 아키텍처 입문&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/36/daebum-lee.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;IBM Japan, 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : 미디어 스트리밍의 기초&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1S5wWHhcHEthlUjTi0NuPUL-knoXxqwN5G8Kpp_Z3N90/edit#slide=id.p&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/36/presentation-beomnyeong.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;이대범(@daebum-lee) : 미디어 스트리밍 아키텍처 입문&lt;/strong&gt; - &lt;a href=&quot;https://www.slideshare.net/daebumlee/media-streaming-architecture-introduction&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/FqdzvMZDuEwbZW&quot; width=&quot;700&quot; height=&quot;600&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2454765421434855&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/36/members.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
-
-&lt;p&gt;株式会社LIFULL半蔵門本社
-&lt;img src=&quot;/img/struggle/36/company.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/10/17/struggle-36/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/10/17/struggle-36/</guid>
-        
-        <category>Media Streaming</category>
         
         
         <category>고군분투기</category>
