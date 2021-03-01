@@ -5,9 +5,66 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 26 Jan 2021 12:27:03 +0000</pubDate>
-    <lastBuildDate>Tue, 26 Jan 2021 12:27:03 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Mar 2021 13:59:16 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Mar 2021 13:59:16 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>제46차 고군분투기</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/46/title.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제46차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
+일시 : 2021년 02월 18일 20시00분 ~ 22시00분&lt;/p&gt;
+
+&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
+
+&lt;p&gt;20:00 ~ 20:05 : 안내&lt;br /&gt;
+20:05 ~ 20:55 : 엔지니어에서 광고컨설턴트로의 삶(강철호님) + Q&amp;amp;A&lt;br /&gt;
+20:55 ~ 21:45 : 부하테스트101(이상준님) + Q&amp;amp;A&lt;br /&gt;
+21:45 ~ 22:00 : 마무리 안내&lt;/p&gt;
+
+&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gc-PB7GMnAs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;강철호(@ChulHo Kang) : 엔지니어에서 광고컨설턴트로의 삶&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1EF8URQewDTocpLR_SWVnj4bMqadReldm/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;전 야후재팬에서 광고플랫폼 개발.현 구글재팬 광고컨설턴트 재직&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/46/ChulHoKang.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;이상준(@sangjun) : 부하테스트101&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1k3hrHqnbITc1gC9MIRRh-J_dDX60F8yshpVTdwPafa8/edit?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;꿈많은 청년 컨셉으로 이것저것 일을 벌이는걸 좋아하는 일bug벌레, 株式会社Devland의 고독한 잡부 입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/46/sangjun.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set?set=oa.118630440131309&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/46/all.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/02/18/struggle-46/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/02/18/struggle-46/</guid>
+        
+        <category>커리어</category>
+        
+        <category>부하테스트</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제45차 고군분투기</title>
@@ -624,93 +681,6 @@
         <category>google</category>
         
         <category>engineer</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제37차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제37차 Kodeveloper 고군분투기 &amp;amp; 송년회 &lt;br /&gt;
-일시 : 2019년 12월 19일 18:30 ~ 24:00&lt;br /&gt;
-장소 : Google Japan Inc.&lt;br /&gt;
-주소 : 渋谷ストリーム 5F, 東京都渋谷区渋谷三丁目21番3号 150-0002&lt;/p&gt;
-
-&lt;p&gt;당일 일정 : &lt;br /&gt;
-18:30 ~ 19:00 접수&lt;br /&gt;
-19:15 ~ 19:30 이벤트 안내(인사 및 간단한 자기 소개등등)&lt;br /&gt;
-19:30 ~ 19:50 코디벨로퍼 2019 연말정산&lt;br /&gt;
-19:50 ~ 20:15 김범녕님 발표및 Q&amp;amp;A&lt;br /&gt;
-20:15 ~ 20:40 전민수님 발표및 Q&amp;amp;A&lt;br /&gt;
-20:40 ~ 20:50 뒷정리&lt;br /&gt;
-20:50 ~ 20:55 단체사진 촬영&lt;br /&gt;
-20:55 ~ 21:00 퇴장및 이동&lt;br /&gt;
-21:10 ~ 24:00 2019 송년회&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : GAS(Google Apps Script)+Firebase활용하기&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/37/beomnyeong.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;cpp, golang, java 로 개발하고있습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;전민수(@manggu) : SRE(Site Reliability Engineering)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/37/manggu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;GCP초보 생활에 막 들어갔습니다..&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;이대범(@daebum-lee) : 코디벨로퍼 연말정산&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/37/daebum-lee.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;발표-자료&quot;&gt;발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : GAS(Google Apps Script)+Firebase활용하기&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1m28GpV195OtZrHvHO3YmEMTdeXwKTK9J6nuZlkjwXk8/edit?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;전민수(@manggu) : SRE(Site Reliability Engineering)&lt;/strong&gt; - 비공개&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;이대범(@daebum-lee) : 코디벨로퍼 연말정산&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1vVkbYNlhwk8Thlx8hE_v0sFTWaeeI98W/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/37/presentation-daebum-lee.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2510167339227996&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;단체사진 &lt;br /&gt;
-&lt;img src=&quot;/img/struggle/37/members.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;송년회
-&lt;img src=&quot;/img/struggle/37/party.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;장소제공&quot;&gt;장소제공&lt;/h3&gt;
-
-&lt;p&gt;Google Japan
-&lt;img src=&quot;/img/struggle/37/company.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/12/19/struggle-37/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2019/12/19/struggle-37/</guid>
-        
-        <category>google</category>
-        
-        <category>GAS</category>
-        
-        <category>Firebase</category>
-        
-        <category>kodeveloper</category>
-        
-        <category>SRE</category>
         
         
         <category>고군분투기</category>
