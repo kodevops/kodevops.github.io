@@ -5,9 +5,130 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Mar 2021 04:10:49 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Mar 2021 04:10:49 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Jun 2021 02:26:58 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Jun 2021 02:26:58 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>제49차 고군분투기</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/49/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제49차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
+일시 : 2021년 05월 20일 20시00분 ~ 22시15분&lt;/p&gt;
+
+&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;인사 및 발표 안내&lt;/li&gt;
+  &lt;li&gt;발표&lt;/li&gt;
+  &lt;li&gt;발표 종료 후 Q&amp;amp;A&lt;/li&gt;
+  &lt;li&gt;근황토크&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7Co4t_afYMI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;김형철 : 재택지름기2&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/17Dm4ce-qn2j0IuT5T6FUh6MvfMNpC5jT/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;라쿠텐에서 일하는 제국군 양산형 개발자입니다. EC주변 잡다한 일을 주로 하고 있습니다.”Do. Or do not.There is no try.”(스타워즈 에피소드5 제국의 역습에서 마스터 요다의 명언.)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;이대범 : Recap of KubeCon Europe 2021 or Introduction to Micro Frontends.&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1Y2hC59GxmFZ8A-wlPjZwy-u16JtHv6yR/view&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :) Don’t let others define you. You define yourself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/49/all.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/49/1_1.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/49/1_2.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/49/2_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/05/20/struggle-49/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/05/20/struggle-49/</guid>
+        
+        <category>재택지름기</category>
+        
+        <category>쿠버네티스</category>
+        
+        <category>쿠베콘</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
+    
+      <item>
+        <title>제48차 고군분투기</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/48/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제48차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
+일시 : 2021년 04월 15일 20시00분 ~ 22시15분&lt;/p&gt;
+
+&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;인사 및 발표 안내&lt;/li&gt;
+  &lt;li&gt;발표&lt;/li&gt;
+  &lt;li&gt;발표 종료 후 Q&amp;amp;A&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RIuB4fpCjSk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;김병관 : Next.js, SSR, CSR 소개&lt;/strong&gt; - &lt;a href=&quot;https://github.com/kodevops/presentation/blob/main/48/%EB%B3%91%EA%B4%80%EB%8B%98_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(next.js).pdf&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;하루하루 나아지고 싶은 초보 개발자입니다. Next.js 와 SSR, CSR 에 대해 간략히 소개해보려합니다!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;최민주 : 찰떡같이 알아듣는 번역기를 만들어 보자&lt;/strong&gt; - &lt;a href=&quot;https://github.com/kodevops/presentation/blob/main/48/%EB%AF%BC%EC%A3%BC%EB%8B%98_%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0_%EA%B4%80%EC%9A%A9%EA%B5%AC%20%EA%B8%B0%EA%B3%84%EB%B2%88%EC%97%AD.pdf&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;언어의 장벽을 기술로 뛰어넘고자 기계번역을 연구하는 대학원생입니다. 신경망 기반 기계번역은 뛰어난 번역 성능을 보이나 약간의 한계가 있는데, 그 중 하나는 관용구를 인간만큼 자연스럽게 번역할 수 없다는 점입니다. 이 점에 착안하여 번역기에게 관용구 번역을 가르치기 위한 연구를 해 보았습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;현지환 : 교육으로 문화 만들기 (온보딩 개발기)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Learning &amp;amp; Development와 Relations를 하며 취미로 커뮤니티를 하는 텐션과 체력 높은 문서쟁이 입니다. 교육, 콘텐츠 작성 기술, 관계 형성에 관심이 많습니다. 이 이야기는 사람 좋아하는 교육 담당자가 좋은 기술 인력과 오랜 기간 동안 함께 하기 위해 고군분투 한 이야기 입니다. 문화를 만들기 위해서 교육을 어떻게 이용하면 좋을지 치열하게 고민한 경험을 나누고자 합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/48/all.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/48/byeonggwan.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/48/minjoo.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/48/jihwan.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/48/youtube-1.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/48/youtube-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/04/15/struggle-48/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/04/15/struggle-48/</guid>
+        
+        <category>머신러닝</category>
+        
+        <category>파이썬</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제47차 고군분투기</title>
@@ -533,143 +654,6 @@
         <category>서비스 개발</category>
         
         <category>커리어</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제40차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/40/struggle.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제40차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2020년 07월 16일 20시00분 ~ 22시00분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;p&gt;20:00 ~ 20:05 이벤트 안내&lt;br /&gt;
-20:05 ~ 20:20 GITHUB ACTIONS를 이용한 CI/CD환경 만들기 - (@seongjookim 김성주 님)&lt;br /&gt;
-20:20 ~ 20:25 Q&amp;amp;A&lt;br /&gt;
-20:25 ~ 21:05 동시/병렬/그 외 성능 이야기 - (@fish 문상환 님)&lt;br /&gt;
-21:05 ~ 21:15 Q&amp;amp;A&lt;br /&gt;
-21:15 ~ 21:55 엘라스틱 서치 고군분투기 - (@Yoda / Hyungcheol Kim 김형철 님)&lt;br /&gt;
-21:55 ~ 22:05 Q&amp;amp;A&lt;br /&gt;
-22:05 ~ 22:10 마무리 안내&lt;/p&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BaGZfVyuK30&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;김성주(@seongjookim) : GITHUB ACTIONS를 이용한 CI/CD환경 만들기&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1vnXgWi6CPrtbCE490X2LSc7adLNZGUGR/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;한조몬에서 백앤드 일 하고 있습니다. 언어는 php, python, javascript 다룰 줄 알고, 슬슬 컴파일 언어 공부하고 싶습니다. 서버 만지는거 좋아합니다. 일 외적으론 술/게임/스노우보드/영화/미드 좋아합니다. :)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/40/seongjookim.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;문상환(@fish) : 동시/병렬/그 외 성능 이야기&lt;/strong&gt; - 비공개&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Odd Concepts / Tokyo Institute of Technology / W3C&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/40/fish.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;김형철(@Yoda / Hyungcheol) : 엘라스틱 서치 고군분투기&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1j2eMdSmvHoH55sxtbwE8OZYUsr3tIFJh/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;라쿠텐에서 일하는 제국군 양산형 개발자입니다. EC주변 잡다한 일을 주로 하고 있습니다.”Do. Or do not.There is no try.”(스타워즈 에피소드5 제국의 역습에서 마스터 요다의 명언.)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/40/yoda.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2667794510131944&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/40/members.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2020/07/16/struggle-40/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2020/07/16/struggle-40/</guid>
-        
-        <category>GITHUB ACTION</category>
-        
-        <category>CI/CD</category>
-        
-        <category>Concurrency</category>
-        
-        <category>Parallelism</category>
-        
-        <category>Elastic Search</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제39차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/39/struggle.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제39차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2020년 06월 18일 20시00분 ~ 22시00분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;p&gt;20:00 ~ 20:05 이벤트 안내&lt;br /&gt;
-20:05 ~ 20:30 GCP에서 약 8,000만원의 청구서가 날라왔다는 블로그”를 본 내가 대응한 것! - (@SANGJUN LEE)&lt;br /&gt;
-20:30 ~ 21:15 Data Engineering 101 - (@Ungi Kim)&lt;br /&gt;
-21:15 ~ 21:35 WebRTC - (@김범녕)&lt;br /&gt;
-21:35 ~ 21:50 발표자 모집 관련 안내&lt;/p&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tnLn4nmhyXI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;이상준(@SANGJUN LEE) : GCP에서 약 8,000만원의 청구서가 날라왔다는 블로그”를 본 내가 대응한 것!&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1ZL6yNc5MCWLqZfkzxveKEuYClGnuNSp7L7A1z-xISsc/edit?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/39/sangjunlee.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;김운기(@Ungi Kim) : Data Engineering 101&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1ICjYNSf5CgyYPujsyUqtIpHCaZ2gR6S6/view&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Software Engineer, Living in Tokyo&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/39/ungikim.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;김범녕(@김범녕) : WebRTC&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1pObFjrUqtB65JVgTGhINg5hvKOOL4y2LCb_yPaS0mOQ/edit?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;소프트웨어 개발자&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/39/beomnyeong.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.2667794510131944&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/39/members.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2020/06/18/struggle-39/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2020/06/18/struggle-39/</guid>
-        
-        <category>gcp</category>
-        
-        <category>data engineering</category>
-        
-        <category>webRTC</category>
         
         
         <category>고군분투기</category>
