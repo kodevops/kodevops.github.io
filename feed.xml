@@ -5,9 +5,44 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Dec 2021 02:54:59 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Dec 2021 02:54:59 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Jan 2022 08:52:31 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Jan 2022 08:52:31 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>제56차 고군분투기</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/56/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제56차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
+일시 : 2021년 12월 16일 20시00분 ~ 22시&lt;/p&gt;
+
+&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
+
+&lt;p&gt;20:05 ~ 20:30 휴식/준비기에 대한 안내(대범님) + No Code / Low Code(대범님) + Q&amp;amp;A
+20:30 ~ 21:10 AppSheet퀵 핸즈온: 맛집 공유 앱(민수님) + Q&amp;amp;A
+21:10 ~ 22:00AI모델 개발을 지원하는 서비스 개발기(Jeong, Doowon님) + Q&amp;amp;A&lt;/p&gt;
+
+&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xE9L7WzVTUQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+</description>
+        <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/12/16/struggle-56/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/12/16/struggle-56/</guid>
+        
+        <category>AI</category>
+        
+        <category>핸즈온</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제55차 고군분투기</title>
@@ -469,63 +504,6 @@
         <category>머신러닝</category>
         
         <category>파이썬</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제46차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/46/title.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제46차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2021년 02월 18일 20시00분 ~ 22시00분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;p&gt;20:00 ~ 20:05 : 안내&lt;br /&gt;
-20:05 ~ 20:55 : 엔지니어에서 광고컨설턴트로의 삶(강철호님) + Q&amp;amp;A&lt;br /&gt;
-20:55 ~ 21:45 : 부하테스트101(이상준님) + Q&amp;amp;A&lt;br /&gt;
-21:45 ~ 22:00 : 마무리 안내&lt;/p&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gc-PB7GMnAs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;강철호(@ChulHo Kang) : 엔지니어에서 광고컨설턴트로의 삶&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1EF8URQewDTocpLR_SWVnj4bMqadReldm/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;전 야후재팬에서 광고플랫폼 개발.현 구글재팬 광고컨설턴트 재직&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/46/ChulHoKang.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;이상준(@sangjun) : 부하테스트101&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1k3hrHqnbITc1gC9MIRRh-J_dDX60F8yshpVTdwPafa8/edit?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;꿈많은 청년 컨셉으로 이것저것 일을 벌이는걸 좋아하는 일bug벌레, 株式会社Devland의 고독한 잡부 입니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/46/sangjun.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/media/set?set=oa.118630440131309&amp;amp;type=3&quot;&gt;Facebook사진첩에서 확인해주세요~!클릭클릭!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/46/all.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/02/18/struggle-46/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/02/18/struggle-46/</guid>
-        
-        <category>커리어</category>
-        
-        <category>부하테스트</category>
         
         
         <category>고군분투기</category>
