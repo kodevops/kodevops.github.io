@@ -5,9 +5,277 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 17 Jan 2025 18:40:55 -0600</pubDate>
-    <lastBuildDate>Fri, 17 Jan 2025 18:40:55 -0600</lastBuildDate>
+    <pubDate>Fri, 17 Jan 2025 20:25:28 -0600</pubDate>
+    <lastBuildDate>Fri, 17 Jan 2025 20:25:28 -0600</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>제62차 고군분투기</title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;제목 : 제62차 Kodeveloper 고군분투기&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;일시 : 2024년8월22일(목) 20시 ~ 22시 (19시 30분부터 접수)&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;장소 : リンクス株式会社&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;주소 : 〒105-0001東京都港区虎ノ門４丁目１−４０ 江戸見坂森ビル8F&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;이상준님 (@sangjun): 一人で最新技術ブログまとめサイトを開発した話&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;장은수님 (@Eunsu Jang): Flutter初心者がChatGPTと一緒にFlutterアプリを作ってみた話&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;이상준님 (@sangjun): 一人で最新技術ブログまとめサイトを開発した話&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;장은수님 (@Eunsu Jang): Flutter初心者がChatGPTと一緒にFlutterアプリを作ってみた話&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/57-62/62_1.PNG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/57-62/62_2.PNG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/57-62/62_3.PNG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/57-62/62_4.PNG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/57-62/62_5.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;リンクス株式会社&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Aug 2024 00:00:00 -0500</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2024/08/22/struggle-62/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2024/08/22/struggle-62/</guid>
+        
+        <category>1인개발</category>
+        
+        <category>flutter</category>
+        
+        <category>chatgpt</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
+    
+      <item>
+        <title>제61차 고군분투기</title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;제목 : 제61차 Kodeveloper 고군분투기&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;일시 : 2024년7월18일(목) 20시 ~ 22시 (19시 30분부터 접수)&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;장소 : IBM Japan&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;주소 : 〒103-8510 東京都中央区日本橋箱崎町１９−２１&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;내컴에서 돌려보는 생성형 ai @김범녕&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;serverless 설계와 운영 관련 테마 @설영래&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;내컴에서 돌려보는 생성형 ai @김범녕&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;serverless 설계와 운영 관련 테마 @설영래&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/struggle/57-62/61_1.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/57-62/61_2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;IBM Japan&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Jul 2024 00:00:00 -0500</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2024/07/18/struggle-61/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2024/07/18/struggle-61/</guid>
+        
+        <category>AI</category>
+        
+        <category>serverless</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
+    
+      <item>
+        <title>제60차 고군분투기</title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제60차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2024년5월23일(목) 20시 ~ 22시 (19시 30분부터 접수)&lt;br /&gt;
+장소 : KINTO Technologies Corporation&lt;br /&gt;
+주소 : 〒103-0022 東京都中央区日本橋室町2-3-1 室町古河三井ビルディング(COREDO室町2) 16F&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;장은수님 (@Eunsu Jang): 엔지니어링 매니저의 역할 part 2&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;이활석님 : The Ecosystem of LLMs from a Real-World Perspective / Upstage&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;KTC会社紹介&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;장은수님 (@Eunsu Jang): 엔지니어링 매니저의 역할 part 2&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/struggle/57-62/60_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;이활석님 : The Ecosystem of LLMs from a Real-World Perspective / Upstage&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/struggle/57-62/60_1.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/57-62/60_2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;KINTO Technologies Corporation  &lt;br /&gt;
+Upstage&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 May 2024 00:00:00 -0500</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2024/05/23/struggle-60/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2024/05/23/struggle-60/</guid>
+        
+        <category>AI</category>
+        
+        <category>엔지니어링 매니저</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
+    
+      <item>
+        <title>제59차 고군분투기</title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제59차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2024년4월18일(목) 20시 ~ 22시 (19시 30분부터 접수)&lt;br /&gt;
+장소 : freee K.K.&lt;br /&gt;
+주소 : 〒141-0032 東京都品川区大崎１丁目２−２アートヴィレッジ大崎セントラルタワー19F&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;김형철 (@Yoda / Hyungcheol Kim): 집(or 차) 구매에 대해서&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;서일구 (@ILGU SEO): Scrum&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;김범녕 (@김범녕): 도커 크로스 플랫폼 빌드&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;김형철 (@Yoda / Hyungcheol Kim): 집(or 차) 구매에 대해서&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/struggle/57-62/59_3.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;서일구 (@ILGU SEO): Scrum&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/struggle/57-62/59_4.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;김범녕 (@김범녕): 도커 크로스 플랫폼 빌드&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/struggle/57-62/59_2.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/57-62/59_5.PNG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/57-62/59_1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;freee K.K.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Apr 2024 00:00:00 -0500</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2024/04/18/struggle-59/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2024/04/18/struggle-59/</guid>
+        
+        <category>집</category>
+        
+        <category>스크럼</category>
+        
+        <category>도커</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
+    
+      <item>
+        <title>제58차 고군분투기</title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제58차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2024년3월21일(목) 19시 ~ 21시 (18시 30분부터 접수)&lt;br /&gt;
+장소 : Google Japan Inc.&lt;br /&gt;
+주소 : 東京都渋谷区渋谷三丁目21番3号 渋谷ストリーム 5F&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;이대범(@daebum-lee): 생성형 AI 입문&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;길마로(@Maro Gil): 일본에서 스타트업 창업하기&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;문상환(@fish): 가상 머신을 이용한 리눅스 커널 개발 환경 구축 및 실험기&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;이대범(@daebum-lee): 생성형 AI 입문&lt;/strong&gt;
+&lt;img src=&quot;/img/struggle/57-62/58_2.PNG&quot; alt=&quot;&quot; /&gt;
+&lt;a href=&quot;https://docs.google.com/presentation/d/11Bb5SuyqN1ZIyHTM1BvNg9qI8PmycxCZneaPy5YpIGU/edit?usp=sharing&quot;&gt;발표 자료 링크&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;길마로(@Maro Gil): 일본에서 스타트업 창업하기&lt;/strong&gt;
+&lt;img src=&quot;/img/struggle/57-62/58_3.PNG&quot; alt=&quot;&quot; /&gt;
+&lt;a href=&quot;https://www.canva.com/design/DAGAHlhJjPU/BrqO5raAkfyGxHaRFhvc8w/edit?utm_content=DA[…]m_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=sharebutton&quot;&gt;발표 자료 링크&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;문상환(@fish): 가상 머신을 이용한 리눅스 커널 개발 환경 구축 및 실험기&lt;/strong&gt;
+&lt;img src=&quot;/img/struggle/57-62/58_4.PNG&quot; alt=&quot;&quot; /&gt;
+&lt;a href=&quot;https://bit.ly/crosvm-linux&quot;&gt;발표 자료 링크&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/57-62/58_5.PNG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/57-62/58_1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;Google Japan Inc.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Mar 2024 00:00:00 -0500</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2024/03/21/struggle-58/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2024/03/21/struggle-58/</guid>
+        
+        <category>AI</category>
+        
+        <category>창업</category>
+        
+        <category>리눅스</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
+    
+      <item>
+        <title>제57차 고군분투기</title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;일시 : 2023년09월28일(목) 20시 ~ 23시(19시 입장 시작)&lt;br /&gt;
+장소 : 東京都新宿区大久保1-1-11 コントワール新宿609(렌탈 스페이스)&lt;br /&gt;
+가까운 역 : 東新宿駅&lt;br /&gt;
+제공 : 피자와 마실것&lt;br /&gt;
+회비 : 2500엔(당일 현장에서 주세요!)&lt;br /&gt;
+준비물 : 발표 및 이야기 할 내용(자유 주제 3분 정도도 괜찮습니다.)&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;모든 참가자가 3분간 돌아가면서 발표했습니다!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/57-62/57_1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/57-62/57_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Sep 2023 00:00:00 -0500</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2023/09/28/struggle-57/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2023/09/28/struggle-57/</guid>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제56차 고군분투기</title>
@@ -173,339 +441,6 @@
         <category>해외봉사</category>
         
         <category>브랜치전략</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제52차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/52/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제52차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2021년 08월 19일 20시00분 ~ 22시00분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;인사 및 발표 안내&lt;/li&gt;
-  &lt;li&gt;발표&lt;/li&gt;
-  &lt;li&gt;발표 종료 후 Q&amp;amp;A&lt;/li&gt;
-  &lt;li&gt;근황토크&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/S3lUa0JAsSs&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;최민주 : AI, 이세계로 가는 길을 알려줘&lt;/strong&gt; - &lt;a href=&quot;https://github.com/kodevops/presentation/blob/main/52/%EC%B5%9C%EB%AF%BC%EC%A3%BC-AI%2C%20%EC%9D%B4%EC%84%B8%EA%B3%84%EB%A1%9C%20%EA%B0%80%EB%8A%94%20%EA%B8%B8%EC%9D%84%20%EC%95%8C%EB%A0%A4%EC%A4%98!.pdf&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;NLP Engineer / 기계번역 / 덕업일치&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;권지성 : Nosh 주문기&lt;/strong&gt; - &lt;a href=&quot;https://github.com/kodevops/presentation/blob/main/52/%EA%B6%8C%EC%A7%80%EC%84%B1-Nosh%EC%9D%B4%EC%9A%A9%EA%B8%B0.pptx.pdf&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;js를 파고 있습니다. php도 합니다&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;전청 : Ansible자격증 고군분투기&lt;/strong&gt; - &lt;a href=&quot;https://github.com/kodevops/presentation/blob/main/52/%EC%A0%84%EC%B2%AD-Ansible%20%EC%9E%90%EA%B2%A9%EC%A6%9D%20%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0.pdf&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;이런저런 취미가 많아 쓸데없이 바쁜 오타쿠입니다&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;김성주 : 예상치 못한 장기간의 #stayathome 킬링 타임 컨텐츠 추천&lt;/strong&gt; - &lt;a href=&quot;https://github.com/kodevops/presentation/blob/main/52/%EA%B9%80%EC%84%B1%EC%A3%BC-%EC%98%88%EC%83%81%EC%B9%98%20%EB%AA%BB%ED%95%9C%20%EC%9E%A5%EA%B8%B0%EA%B0%84%EC%9D%98stayathome%ED%82%AC%EB%A7%81%20%ED%83%80%EC%9E%84%20%EC%BB%A8%ED%85%90%EC%B8%A0%20%EC%B6%94%EC%B2%9C.pdf&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;#半蔵門 #backend #infrastructure #go #AWS #snowboard #movie&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/52/all.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Aug 2021 00:00:00 -0500</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/08/19/struggle-52/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/08/19/struggle-52/</guid>
-        
-        <category>AI</category>
-        
-        <category>Nosh</category>
-        
-        <category>Ansible</category>
-        
-        <category>컨텐츠 추천</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제51차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/51/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;제51차 고군분투기는 멤버간의 소통을 위해서, 고군소통기를 진행 했습니다.&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제51차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2021년 07월 15일 20시00분 ~ 22시00분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;인사 및 안내&lt;/li&gt;
-  &lt;li&gt;자기소개 타임&lt;/li&gt;
-  &lt;li&gt;고민 타임&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/51/presentation.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 15 Jul 2021 00:00:00 -0500</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/07/15/struggle-51/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/07/15/struggle-51/</guid>
-        
-        <category>소통</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제50차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/50/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제50차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2021년 06월 17일 20시00분 ~ 22시00분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;인사 및 발표 안내&lt;/li&gt;
-  &lt;li&gt;발표&lt;/li&gt;
-  &lt;li&gt;발표 종료 후 Q&amp;amp;A&lt;/li&gt;
-  &lt;li&gt;근황토크&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AzIgufydOXE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;이상준 : 회사를 떠나고 part.2&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/17Dm4ce-qn2j0IuT5T6FUh6MvfMNpC5jT/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;꿈많은 청년 컨셉으로 이것저것 일을 벌이는걸 좋아하는 일bug벌레, 株式会社Devland의 고독한 잡부 입니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;안영모 : 골프 입문 이야기&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1Y2hC59GxmFZ8A-wlPjZwy-u16JtHv6yR/view&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;반갑습니다! 시부야에서 웹쪽 관련 근무를 하고 있습니다. 보통 깜모라는 닉을 사용합니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/50/all.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/50/1_1.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/50/2_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 17 Jun 2021 00:00:00 -0500</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/06/17/struggle-50/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/06/17/struggle-50/</guid>
-        
-        <category>이직</category>
-        
-        <category>창업</category>
-        
-        <category>골프</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제49차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/49/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제49차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2021년 05월 20일 20시00분 ~ 22시15분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;인사 및 발표 안내&lt;/li&gt;
-  &lt;li&gt;발표&lt;/li&gt;
-  &lt;li&gt;발표 종료 후 Q&amp;amp;A&lt;/li&gt;
-  &lt;li&gt;근황토크&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7Co4t_afYMI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;김형철 : 재택지름기2&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/17Dm4ce-qn2j0IuT5T6FUh6MvfMNpC5jT/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;라쿠텐에서 일하는 제국군 양산형 개발자입니다. EC주변 잡다한 일을 주로 하고 있습니다.”Do. Or do not.There is no try.”(스타워즈 에피소드5 제국의 역습에서 마스터 요다의 명언.)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;이대범 : Recap of KubeCon Europe 2021 or Introduction to Micro Frontends.&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1Y2hC59GxmFZ8A-wlPjZwy-u16JtHv6yR/view&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :) Don’t let others define you. You define yourself.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/49/all.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/49/1_1.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/49/1_2.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/49/2_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 May 2021 00:00:00 -0500</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/05/20/struggle-49/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/05/20/struggle-49/</guid>
-        
-        <category>재택지름기</category>
-        
-        <category>쿠버네티스</category>
-        
-        <category>쿠베콘</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제48차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/48/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제48차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2021년 04월 15일 20시00분 ~ 22시15분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;인사 및 발표 안내&lt;/li&gt;
-  &lt;li&gt;발표&lt;/li&gt;
-  &lt;li&gt;발표 종료 후 Q&amp;amp;A&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RIuB4fpCjSk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;김병관 : Next.js, SSR, CSR 소개&lt;/strong&gt; - &lt;a href=&quot;https://github.com/kodevops/presentation/blob/main/48/%EB%B3%91%EA%B4%80%EB%8B%98_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(next.js).pdf&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;하루하루 나아지고 싶은 초보 개발자입니다. Next.js 와 SSR, CSR 에 대해 간략히 소개해보려합니다!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;최민주 : 찰떡같이 알아듣는 번역기를 만들어 보자&lt;/strong&gt; - &lt;a href=&quot;https://github.com/kodevops/presentation/blob/main/48/%EB%AF%BC%EC%A3%BC%EB%8B%98_%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0_%EA%B4%80%EC%9A%A9%EA%B5%AC%20%EA%B8%B0%EA%B3%84%EB%B2%88%EC%97%AD.pdf&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;언어의 장벽을 기술로 뛰어넘고자 기계번역을 연구하는 대학원생입니다. 신경망 기반 기계번역은 뛰어난 번역 성능을 보이나 약간의 한계가 있는데, 그 중 하나는 관용구를 인간만큼 자연스럽게 번역할 수 없다는 점입니다. 이 점에 착안하여 번역기에게 관용구 번역을 가르치기 위한 연구를 해 보았습니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;현지환 : 교육으로 문화 만들기 (온보딩 개발기)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Learning &amp;amp; Development와 Relations를 하며 취미로 커뮤니티를 하는 텐션과 체력 높은 문서쟁이 입니다. 교육, 콘텐츠 작성 기술, 관계 형성에 관심이 많습니다. 이 이야기는 사람 좋아하는 교육 담당자가 좋은 기술 인력과 오랜 기간 동안 함께 하기 위해 고군분투 한 이야기 입니다. 문화를 만들기 위해서 교육을 어떻게 이용하면 좋을지 치열하게 고민한 경험을 나누고자 합니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/48/all.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/48/byeonggwan.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/48/minjoo.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/48/jihwan.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/48/youtube-1.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/48/youtube-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 15 Apr 2021 00:00:00 -0500</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/04/15/struggle-48/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/04/15/struggle-48/</guid>
-        
-        <category>머신러닝</category>
-        
-        <category>파이썬</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제47차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/47/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제47차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2021년 03월 18일 20시00분 ~ 22시00분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;인사 및 발표 안내&lt;/li&gt;
-  &lt;li&gt;발표&lt;/li&gt;
-  &lt;li&gt;발표 종료 후 Q&amp;amp;A&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/d-OrsISRF2A&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;발표자-및-발표-자료&quot;&gt;발표자 및 발표 자료&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;최민주 : 기계번역, 어디까지 왔니&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1dyB7iwo42vVE6o-d3xXLxY0bbcJazlNf/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;언어의 장벽을 기술로 뛰어넘고자 기계번역을 연구하는 대학원생입니다. 40분만에 이해하는 인공지능 시대의 기계번역을 발표합니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;이지호 : python 웹 프레임워크&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1k2t7kS61SXAoyC-eNZer0zAr_t8IF62d/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;대학원 입학 공고를 보고 마음이 흔들려 입학한 다음 아직도 대학원을 졸업 못한 바보 천치. 한번 꽂힌 일은 수년이 걸려도 언젠가 하리라 마음먹고 현실은 파이썬과 PostgreSQL에 미쳐있는 한 마리의 직장인&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/47/all.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Mar 2021 00:00:00 -0500</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/03/18/struggle-47/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/03/18/struggle-47/</guid>
-        
-        <category>머신러닝</category>
-        
-        <category>파이썬</category>
         
         
         <category>고군분투기</category>
