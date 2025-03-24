@@ -5,9 +5,50 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 08 Mar 2025 00:03:25 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Mar 2025 00:03:25 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Mar 2025 23:24:23 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Mar 2025 23:24:23 +0000</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>제63차 고군분투기</title>
+        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;제목 : 제63차 Kodeveloper 고군분투기&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;일시 : 2025년4월16일(수) 20시 ~ 22시 (19시 30분부터 접수)&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;장소 : 히토츠바시 대학 치요다 캠퍼스&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;주소 : 〒101-8439 東京都千代田区一ツ橋2-1-2学術総合センター内&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;장은수님 (@Eunsu Jang): 이하의 주제 중 하나&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;알아서 웹 검색하고 대답하는 AI에이전트 만들기 - OpenAI Agents SDK 핸즈온&lt;/li&gt;
+  &lt;li&gt;“AI 개발툴 4대장” Cursor/Cline/Claude Code/Devin을 모두 실무에 사용해보고 느낀점/사용팁&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;김범녕님 (@김범녕): 클라우드 탈출기: 내 방이 가장 저렴했다&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;참가신청&quot;&gt;참가신청&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/9BLrTnea53xgTYzi6&quot;&gt;참가신청&lt;/a&gt;은 여기에서!&lt;br /&gt;
+세부내용은 슬랙을 통해서 공지됩니다. &lt;a href=&quot;https://goo.gl/5czniN&quot;&gt;슬랙에 참여해주세요!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+&lt;p&gt;이벤트 후 공개 예정&lt;/p&gt;
+
+&lt;h3 id=&quot;도와주신-분&quot;&gt;도와주신 분&lt;/h3&gt;
+&lt;p&gt;발표: 장은수님, 김범녕님&lt;br /&gt;
+장소: 히토츠바시 대학 치요다 캠퍼스(노성철님)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2025/04/16/struggle-63/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2025/04/16/struggle-63/</guid>
+        
+        <category>1인개발</category>
+        
+        <category>ai</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제62차 고군분투기</title>
@@ -400,47 +441,6 @@ Upstage&lt;/p&gt;
         <category>테스트</category>
         
         <category>서비스개발기</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제53차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/53/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제53차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2021년 09월 16일 20시00분 ~ 22시00분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;p&gt;20:00 ~ 20:05 시작 대기 및 오프닝 &lt;br /&gt;
-20:05 ~ 21:00 스트리밍 친구들 모여라(김범녕) + Q&amp;amp;A &lt;br /&gt;
-21:00 ~ 21:30 Automatic branch merging in Bitbucket (김형철) + Q&amp;amp;A &lt;br /&gt;
-21:30 ~ 22:00 비대면 해외봉사 고군분투기 (부제: 야너두? 야나두! 해외봉사 너도 할 수 있어!
-) (민주님) + Q&amp;amp;A &lt;br /&gt;
-22:00 ~ 22:05 마무리, 안내 &lt;br /&gt;
-22:05 ~ : 근황토크 (별도 Meet Room, #초심자 대환영.)&lt;/p&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;p&gt;추후 업로드 예정입니다.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/09/16/struggle-53/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/09/16/struggle-53/</guid>
-        
-        <category>스트리밍</category>
-        
-        <category>git</category>
-        
-        <category>해외봉사</category>
-        
-        <category>브랜치전략</category>
         
         
         <category>고군분투기</category>
