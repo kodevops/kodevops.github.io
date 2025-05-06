@@ -5,8 +5,8 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 24 Mar 2025 23:24:23 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Mar 2025 23:24:23 +0000</lastBuildDate>
+    <pubDate>Tue, 06 May 2025 11:26:38 +0000</pubDate>
+    <lastBuildDate>Tue, 06 May 2025 11:26:38 +0000</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
     
       <item>
@@ -24,14 +24,15 @@
   &lt;li&gt;“AI 개발툴 4대장” Cursor/Cline/Claude Code/Devin을 모두 실무에 사용해보고 느낀점/사용팁&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;김범녕님 (@김범녕): 클라우드 탈출기: 내 방이 가장 저렴했다&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/1MKGdEZduMGd4HzMsRbzRvhzPv2NWP_QA/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;장은수님 발표자료 링크&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;참가신청&quot;&gt;참가신청&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://forms.gle/9BLrTnea53xgTYzi6&quot;&gt;참가신청&lt;/a&gt;은 여기에서!&lt;br /&gt;
-세부내용은 슬랙을 통해서 공지됩니다. &lt;a href=&quot;https://goo.gl/5czniN&quot;&gt;슬랙에 참여해주세요!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;김범녕님 (@김범녕): 클라우드 탈출기: 내 방이 가장 저렴했다&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://docs.google.com/presentation/d/1COcmjNb0g3ny4sBxAphS5nzuShy8r55nnaZ8SK9Sc0k/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;김범녕님 발표자료 링크&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-&lt;p&gt;이벤트 후 공개 예정&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/struggle/63/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/63/2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/63/all.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;도와주신-분&quot;&gt;도와주신 분&lt;/h3&gt;
 &lt;p&gt;발표: 장은수님, 김범녕님&lt;br /&gt;
@@ -41,9 +42,11 @@
         <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2025/04/16/struggle-63/</link>
         <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2025/04/16/struggle-63/</guid>
         
-        <category>1인개발</category>
-        
         <category>ai</category>
+        
+        <category>집인프라</category>
+        
+        <category>1인개발</category>
         
         
         <category>고군분투기</category>
