@@ -5,9 +5,125 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 08 Sep 2025 01:49:02 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2025 01:49:02 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2025 13:09:06 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2025 13:09:06 +0000</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>제66차 고군분투기</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/66/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제66차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2025년10월20일(월) 20시 ~ 22시 (19시 30분부터 접수)&lt;br /&gt;
+장소 : LINEヤフー&lt;br /&gt;
+주소 : 〒102-0094 東京都千代田区紀尾井町１−２ 紀尾井タワー17階 ロッジ&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1. 김형철: IoT 고군분투기&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1y9d76REi7jsJQEW3eE5Tg5r1r0xrcWNb40_QB--qLi0/edit?usp=drive_link&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/66/김형철.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;2. 문재성: 멀티 플랫폼 개발 고군분투기&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1vxD9RFX_yfBtYN21Qf3O6NJ1d14mG4B1vWf8esVeaHs/mobilepresent?slide=id.p&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/66/문재성.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 김범녕: 데이터 스페이스&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1ipr32WD-SPOYts0b75xKogvIpRpci8z9/view?usp=drive_link&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/66/김범녕.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/img/struggle/66/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/66/2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/66/3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/66/all.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;LINEヤフー株式会社(@재성 문)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2025/10/20/struggle-65/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2025/10/20/struggle-65/</guid>
+        
+        <category>IoT</category>
+        
+        <category>Multi Platform</category>
+        
+        <category>Data Space</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
+    
+      <item>
+        <title>제65차 고군분투기</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/65/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제65차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2025년9월18일(목) 19시 ~ 21시 (18시 30분부터 접수)&lt;br /&gt;
+장소 : WeWork リンクスクエア新宿 16층&lt;br /&gt;
+주소 : 〒151-0051 東京都渋谷区千駄ヶ谷5-27-5 リンクスクエア新宿 16F&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1. 김범녕: ollama를 활용한 로컬 LLM 실행&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/13a0BNcFNe_AJt-kL6pzyoMsnY8GxNw7g9eHs5ddpyvw/edit?usp=drive_link&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/65/김범녕.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;2. 장은수: n8n으로 AI 숏폼 영상 자동생성 워크플로우 구축해본 이야기&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/12wAV8x_GlehNGFeEE_GCl1RN4_YjnpBE/view?usp=drive_link&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/65/장은수.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 문재성: Rust 모바일개발 고군분투기&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1Nc-Y8K6Z64V9kLKptoEKJxisZwkjXDOQLrVelyA_v0k/edit?usp=drive_link&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/65/문재성.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/img/struggle/65/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/65/2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/65/3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/65/all.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;株式会社LAPRAS株式会社&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2025/09/18/struggle-65/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2025/09/18/struggle-65/</guid>
+        
+        <category>ollama</category>
+        
+        <category>Local LLM</category>
+        
+        <category>AI</category>
+        
+        <category>Rust</category>
+        
+        <category>Mobile</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제64차 고군분투기</title>
@@ -373,87 +489,6 @@ Upstage&lt;/p&gt;
         <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
         <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2023/09/28/struggle-57/</link>
         <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2023/09/28/struggle-57/</guid>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제56차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/56/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제56차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2021년 12월 16일 20시00분 ~ 22시&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;p&gt;20:05 ~ 20:30 휴식/준비기에 대한 안내(대범님) + No Code / Low Code(대범님) + Q&amp;amp;A&lt;br /&gt;
-20:30 ~ 21:10 AppSheet퀵 핸즈온: 맛집 공유 앱(민수님) + Q&amp;amp;A&lt;br /&gt;
-21:10 ~ 22:00AI모델 개발을 지원하는 서비스 개발기(Jeong, Doowon님) + Q&amp;amp;A&lt;/p&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XdQCULP1FGQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/56/all.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/12/16/struggle-56/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/12/16/struggle-56/</guid>
-        
-        <category>AI</category>
-        
-        <category>핸즈온</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제55차 고군분투기</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/55/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;제목 : 제55차 Kodeveloper 고군분투기(온라인)&lt;br /&gt;
-일시 : 2021년 11월 18일 20시00분 ~ 21시30분&lt;/p&gt;
-
-&lt;h3 id=&quot;타임라인&quot;&gt;타임라인&lt;/h3&gt;
-
-&lt;p&gt;20:00 ~ 20:05 시작 대기 및 오프닝  &lt;br /&gt;
-20:05 ~ 20:55 인생은 실전이야 - 기계번역 스타트업 고군분투기(민주님) + Q&amp;amp;A  &lt;br /&gt;
-20:55 ~ 21:20 스터디 경험기(혜미님) + Q&amp;amp;A  &lt;br /&gt;
-21:20 ~ 21:30 마무리, 안내  &lt;br /&gt;
-21:30 ~ : 근황토크 (별도 안내, #초심자 대환영.)&lt;/p&gt;
-
-&lt;h3 id=&quot;발표-영상&quot;&gt;발표 영상&lt;/h3&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xE9L7WzVTUQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/55/all.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/11/18/struggle-55/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2021/11/18/struggle-55/</guid>
-        
-        <category>스타트업</category>
-        
-        <category>nlp</category>
-        
-        <category>자연어처리</category>
-        
-        <category>기계번역</category>
-        
-        <category>스터디</category>
         
         
         <category>고군분투기</category>
