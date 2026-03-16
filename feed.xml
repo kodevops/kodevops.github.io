@@ -5,9 +5,68 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Nov 2025 13:23:01 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2025 13:23:01 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 08:41:50 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 08:41:50 +0000</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>제67차 고군분투기</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/67/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+
+&lt;p&gt;제목 : 제66차 Kodeveloper 고군분투기&lt;br /&gt;
+일시 : 2026년01월15일(월) 20시 ~ 22시 (19시 45분부터 접수)&lt;br /&gt;
+장소 : セルプロモート株式会社&lt;br /&gt;
+주소 : 〒150-0002 東京渋谷区３丁目28-15 渋谷S.野口Bldg.（渋谷野口ビル）&lt;/p&gt;
+
+&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1. 조한규: 마이크로커널 아키텍처&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1g9uhl185gUPEXMpQefUAgD8fwTe8ERpS/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/67/조한규-발표자료.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;2. 장은수: 멀티 플랫폼 개발 고군분투기&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1up1E5a9Uspd1Yr2FPrzsHV63ZqYAvP2R/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/67/장은수-발표자료.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 이웅희: 2026년의 생존 전략: 엔지니어를 위한 「로드맵」 활용 방법&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/18Eb4-3JDbGTfS-JgzSmII1rJEOHX6Lnx/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/67/이웅희-발표자료.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/struggle/67/조한규.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/67/장은수.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/67/이웅희.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/67/all.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;더 많은 사진은 &lt;a href=&quot;https://drive.google.com/drive/folders/1Ga7ITdATKD61HbMVHCgREbctT_V4VT8D?usp=sharing&quot;&gt;구글 드라이브&lt;/a&gt;에서 확인해주세요~!&lt;/p&gt;
+
+&lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
+
+&lt;p&gt;セルプロモート株式会社(@이웅희)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2026/01/15/struggle-67/</link>
+        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2026/01/15/struggle-67/</guid>
+        
+        <category>Microkernel Architecture</category>
+        
+        <category>Minecraft AI Bot</category>
+        
+        <category>Developer Roadmaps</category>
+        
+        
+        <category>고군분투기</category>
+        
+      </item>
     
       <item>
         <title>제66차 고군분투기</title>
@@ -460,35 +519,6 @@ Upstage&lt;/p&gt;
         <category>창업</category>
         
         <category>리눅스</category>
-        
-        
-        <category>고군분투기</category>
-        
-      </item>
-    
-      <item>
-        <title>제57차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
-
-&lt;p&gt;일시 : 2023년09월28일(목) 20시 ~ 23시(19시 입장 시작)&lt;br /&gt;
-장소 : 東京都新宿区大久保1-1-11 コントワール新宿609(렌탈 스페이스)&lt;br /&gt;
-가까운 역 : 東新宿駅&lt;br /&gt;
-제공 : 피자와 마실것&lt;br /&gt;
-회비 : 2500엔(당일 현장에서 주세요!)&lt;br /&gt;
-준비물 : 발표 및 이야기 할 내용(자유 주제 3분 정도도 괜찮습니다.)&lt;/p&gt;
-
-&lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;모든 참가자가 3분간 돌아가면서 발표했습니다!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;사진&quot;&gt;사진&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/struggle/57-62/57_1.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/57-62/57_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-        <link>kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2023/09/28/struggle-57/</link>
-        <guid isPermaLink="true">kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2023/09/28/struggle-57/</guid>
         
         
         <category>고군분투기</category>
