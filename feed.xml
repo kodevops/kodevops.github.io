@@ -5,13 +5,15 @@
     <description>일본에서 일하는 한국인 개발자 모임 | Kodeveloper</description>
     <link>kodeveloper.com/</link>
     <atom:link href="kodeveloper.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Jul 2026 13:13:34 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 13:13:34 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 16:05:57 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 16:05:57 +0000</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
     
       <item>
         <title>제68차 고군분투기</title>
-        <description>&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/img/struggle/68/title.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;일정&quot;&gt;일정&lt;/h3&gt;
 
 &lt;p&gt;제목 : 제68차 Kodeveloper 고군분투기&lt;br /&gt;
 일시 : 2026년05월29일(금) 20시 ~ 22시 (19시 00분부터 접수)&lt;br /&gt;
@@ -20,24 +22,27 @@
 
 &lt;h3 id=&quot;발표자&quot;&gt;발표자&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;1. 김태영: 회사에서 상시 로그인 기능 개발하면서 고민했던 것들&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1inQqhxpxagX10k1pTT78C5Oa8YeP0eo6/edit?usp=sharing&amp;amp;ouid=105621833526474258418&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 장은수: 팀 개발에서 기능하는 에이전트 하네스 운영&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/16MNRWtfW22wOgTJ4gxWj0iNpHxaTd1Jm/view?usp=sharing&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/struggle/68/김태영-1.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/68/김태영-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/struggle/68/장은수-발표자료.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/68/장은수-1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/68/장은수-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;2. 장은수: Hono+OpenAI API+Codex App Server로 24시간 알아서 정보수집하고 개발 완료하는 에이전트 하네스 환경 구축해본 이야기 (仮)&lt;/strong&gt; - 자료 (공개 예정)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 김태영: 회사에서 상시 로그인 기능 개발하면서 고민했던 것들&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1inQqhxpxagX10k1pTT78C5Oa8YeP0eo6/edit?usp=sharing&amp;amp;ouid=105621833526474258418&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/struggle/68/장은수-1.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/68/장은수-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/struggle/68/김태영-발표자료.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/68/김태영-2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/68/김태영-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;3. 윤준영: 제로 베이스에서 AI 파트너 만들어 본 이야기&lt;/strong&gt; - &lt;a href=&quot;https://drive.google.com/file/d/1eEPz_UrEqkKzmgVGlRt3NDg1gBoQPrWn/view?usp=share_link&quot;&gt;자료&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/struggle/68/윤준영-1.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/img/struggle/68/윤준영-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/struggle/68/윤준영-발표자료.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/68/윤준영-2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/struggle/68/윤준영-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -45,6 +50,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/img/struggle/68/all.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;/img/struggle/68/all-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;더 많은 사진은 &lt;a href=&quot;https://drive.google.com/drive/folders/19MUMgk28xlXeLPS-iYzWlleWQjCSUh8Q?usp=drive_link&quot;&gt;구글 드라이브&lt;/a&gt;에서 확인해주세요~!&lt;/p&gt;
 
 &lt;h3 id=&quot;후원&quot;&gt;후원&lt;/h3&gt;
 
@@ -61,6 +68,8 @@
         <category>OpenAI Codex</category>
         
         <category>AI Partner</category>
+        
+        <category>Harness Engineering</category>
         
         
         <category>고군분투기</category>
